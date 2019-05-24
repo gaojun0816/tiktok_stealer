@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tiktok_proxy</string>
+    <string name="inituser">a3668f0afac72ca3f6c1697d29e0e1bb1fef4ab0285319b95ac39fa42c38d05f</string>
+    <string name="uid">14561319</string>
+    <string name="load_video">Load Video</string>
+    <string name="search_users_ids">Search</string>
+    <string name="user_id_input_hint">Input User ID Here</string>
+    <string name="keyword_input_hint">Input Your Keyword for Searching Users</string>
+</resources>
