@@ -1,4 +1,4 @@
-package lu.uni.jungao.tiktok_proxy;
+package lu.uni.jungao.plagiarist;
 
 import org.junit.Test;
 

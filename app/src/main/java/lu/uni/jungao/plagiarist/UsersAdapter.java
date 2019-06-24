@@ -1,4 +1,4 @@
-package lu.uni.jungao.tiktok_proxy;
+package lu.uni.jungao.plagiarist;
 
 import android.support.annotation.NonNull;
 import android.support.v7.widget.RecyclerView;

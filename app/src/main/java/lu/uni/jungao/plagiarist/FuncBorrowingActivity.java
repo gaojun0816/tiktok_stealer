@@ -1,4 +1,4 @@
-package lu.uni.jungao.tiktok_proxy;
+package lu.uni.jungao.plagiarist;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;

@@ -1,13 +1,11 @@
-package lu.uni.jungao.tiktok_proxy;
+package lu.uni.jungao.plagiarist;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
-import android.util.Log;
 
-import java.util.ArrayList;
 import java.util.List;
 
 public class VideosActivity extends AppCompatActivity {

@@ -1,4 +1,4 @@
-package lu.uni.jungao.tiktok_proxy;
+package lu.uni.jungao.plagiarist;
 
 import android.content.Intent;
 import android.content.pm.PackageInfo;
@@ -8,7 +8,6 @@ import android.os.Build;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.text.method.ScrollingMovementMethod;
-import android.util.Log;
 import android.view.View;
 import android.widget.TextView;
 
