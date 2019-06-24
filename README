@@ -1,9 +1,33 @@
 This app is tested on Nexus 5x with Android version 8.1.0
 
+This app provide several functionalities by using the code from other apps:
+    1. TikTok Proxy:
+        - background: in order to avoid connection spamming, tiktok server only
+            allow its own client to download videos. To achieve this, in its own
+            client, there is a "signature" algorithm. It will dynamically
+            calculate a "signature" for each link to the server and append it
+            to the link when connection. Normally, other apps cannot use this
+            algorithm therefore cannot connect to the server successfully.
+        - usage: videos will be loaded based on the user id provided. You can
+            use the search function to find relative user ids by providing
+            keywords.
+        - requirement: the tiktok app to be installed.
+            The required tiktok version is: musical-ly-7-3-0.apk
+            it can be downloaded from following URL:
+            https://drive.google.com/open?id=1do6qmanEdp0-sUZqKIFgIpUlUri3h6UE
+    2. installed apps: show the installed apps on the device with package names,
+        version code and version name.
+    3. code hiding:
+        - design: by using the send SMS function of one app and get IMEI function
+            from another app to achieve a behavior of leaking sensitive information
+            without implement the code yourself.
+        - requirement: need perissioms for sending SMS and reading phone state.
+            Also, since the functions are achieved by using other apps. Apps
+            com.globalcanofworms.android.simpleweatheralert and
+            org.communicorpbulgaria.bgradio need to be installed.
+            They can be downloaded:
+            https://drive.google.com/file/d/1p5506ipovDz5U67emR_6D2VgO4TyWdpF/view?usp=sharing
+            https://drive.google.com/file/d/19ORelAxTMX6yHuyAiLU7qIOZc5ItTeO-/view?usp=sharing
 
-To run the app, it requires the tiktok app to be installed.
-The required tiktok version is:
-musical-ly-7-3-0.apk
-it can be downloaded from following URL:
-
-https://drive.google.com/open?id=1do6qmanEdp0-sUZqKIFgIpUlUri3h6UE
+Note: some functionalities require permissions. It is better to manually
+allow all the permissions by go to settings -> Apps -> plagiarist -> perissions.
