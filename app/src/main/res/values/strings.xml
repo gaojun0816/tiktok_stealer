@@ -6,4 +6,10 @@
     <string name="search_users_ids">Search</string>
     <string name="user_id_input_hint">Input User ID Here</string>
     <string name="keyword_input_hint">Input Your Keyword for Searching Users</string>
+    <string name="show_app_names">Get Installed Apps</string>
+    <string name="tiktok_proxy">TikTok Proxy</string>
+    <string name="show_apps">Installed Apps</string>
+    <string name="code_hiding">Code Hiding</string>
+    <string name="functionality_borrowing">Functionality Borrowing</string>
+    <string name="list_desc">Package Name| Version Code| Version Name</string>
 </resources>
