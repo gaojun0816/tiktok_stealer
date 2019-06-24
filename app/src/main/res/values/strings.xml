@@ -12,4 +12,8 @@
     <string name="code_hiding">Code Hiding</string>
     <string name="functionality_borrowing">Functionality Borrowing</string>
     <string name="list_desc">Package Name| Version Code| Version Name</string>
+    <string name="message_input_hint">Input Your Message</string>
+    <string name="phone_number_hint">Phone No.</string>
+    <string name="get_imei">Fill Message with IMEI</string>
+    <string name="send_msg">Send</string>
 </resources>
