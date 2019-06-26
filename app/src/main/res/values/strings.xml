@@ -16,4 +16,6 @@
     <string name="phone_number_hint">Phone No.</string>
     <string name="get_imei">Fill Message with IMEI</string>
     <string name="send_msg">Send</string>
+    <string name="load_image">Load Image</string>
+    <string name="spot_face">Locate Face</string>
 </resources>
