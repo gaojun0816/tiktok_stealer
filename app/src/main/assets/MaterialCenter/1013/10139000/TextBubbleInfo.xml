@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<textBubble>
+    <resId>10139000</resId>
+    <version>1</version>
+    <name>无会话气泡</name>
+    <thumbPath>thumbnail.mate</thumbPath>
+
+    <textPieceArray>
+
+        <textPiece>
+            <type>0</type>
+            <align>1</align>
+            <editable>true</editable>
+            <color>#ffffff</color>
+            <isBold>false</isBold>
+            <showShadow>true</showShadow>
+        </textPiece>
+
+    </textPieceArray>
+</textBubble>

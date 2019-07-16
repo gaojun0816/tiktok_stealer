@@ -1,0 +1,529 @@
+{
+    "namespace": "com.meitu.library.ad.avro",
+    "type": "record",
+    "name": "AdLog",
+    "fields": [
+        {
+            "name": "app_key",
+            "type": "string"
+        },
+        {
+            "name": "app_version",
+            "type": "string"
+        },
+        {
+            "name": "os_type",
+            "type": "string"
+        },
+        {
+            "name": "channel",
+            "type": "string"
+        },
+        {
+            "name": "imei",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "mac_addr",
+            "type": "string"
+        },
+        {
+            "name": "ad_action",
+            "type": "string"
+        },
+        {
+            "name": "os_version",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "sdk_version",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "device_model",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "resolution",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "carrier",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "network",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "language",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "page_id",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_join_id",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_id",
+            "type": [
+                "null",
+                "string",
+                "long"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_idea_id",
+            "type": [
+                "null",
+                "string",
+                "long"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_owner_id",
+            "type": [
+                "null",
+                "string",
+                "long"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_score",
+            "type": [
+                "null",
+                "float"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_cost",
+            "type": [
+                "null",
+                "int"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_type",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_entity_type",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_position_type",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_position_id",
+            "type": [
+                "null",
+                "int",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_position_sub_id",
+            "type": [
+                "null",
+                "int",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_algo_id",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "country",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "city",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "iccid",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "uid",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "timezone",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "local_ip",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "is_root",
+            "type": "int"
+        },
+        {
+            "name": "page_type",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "event_id",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "event_type",
+            "type": [
+                "string",
+                "null"
+            ],
+            "default": "1"
+        },
+        {
+            "name": "event_params",
+            "type": [
+                "null",
+                {
+                    "type": "map",
+                    "values": "string"
+                }
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_network_id",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "launch_type",
+            "type": [
+                "null",
+                "int"
+            ],
+            "default": null
+        },
+        {
+            "name": "duration",
+            "type": [
+                "null",
+                "long",
+                "double"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_load_type",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "sale_type",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "create_time",
+            "type": "long"
+        },
+        {
+            "name": "province",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "charge_type",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_supply_times",
+            "type": [
+                "null",
+                "int"
+            ],
+            "default": null
+        },
+        {
+            "name": "refresh_type",
+            "type": [
+                "null",
+                "int"
+            ],
+            "default": null
+        },
+        {
+            "name": "cate_channel",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_feed_type",
+            "type": [
+                "null",
+                "int"
+            ],
+            "default": null
+        },
+        {
+            "name": "is_1st_refresh",
+            "type": [
+                "null",
+                "int"
+            ],
+            "default": null
+        },
+        {
+            "name": "ad_sub_position",
+            "type": [
+                "null",
+                "int"
+            ],
+            "default": null
+        },
+        {
+            "name": "action_times",
+            "type": [
+                "null",
+                "int"
+            ],
+            "default": null
+        },
+        {
+            "name": "media_time",
+            "type": [
+                "null",
+                "int"
+            ],
+            "default": null
+        },
+        {
+            "name": "play_time",
+            "type": [
+                "null",
+                "int",
+                "float"
+            ],
+            "default": null
+        },
+        {
+            "name": "wake_type",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "gid",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "android_id",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "device_brand",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "is_prefetch",
+            "type": [
+                "null",
+                "int"
+            ],
+            "default": null
+        },
+        {
+            "name": "data_id",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+        {
+            "name": "refresh_num",
+            "type": [
+                "null",
+                "int"
+            ],
+            "default": null
+        },
+        {
+            "name": "jump_type",
+            "type": [
+                "null",
+                "int"
+            ],
+            "default": null
+        },
+        {
+            "name": "resolution_logical",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+	    {
+            "name": "ad_pathway",
+            "type": [
+                "null",
+                "string"
+            ],
+            "default": null
+        },
+	    {
+            "name": "ad_idx_order",
+            "type": [
+                "null",
+                "int"
+            ],
+            "default": null
+        },
+	    {
+            "name": "error_code",
+            "type": [
+                "null",
+                "int"
+            ],
+            "default": null
+        },
+        {
+            "name": "is_adpreview",
+             "type": [
+                 "null",
+                 "int"
+             ],
+             "default": null
+        }
+    ]
+}

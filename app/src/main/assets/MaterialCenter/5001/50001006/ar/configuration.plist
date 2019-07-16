@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Action</key>
+		<integer>0</integer>
+		<key>FacePart</key>
+		<array>
+			<!-- 眼睛 大眼0 -->
+			<dict>
+				<key>ControlPosition</key>
+				<string>0,1</string>
+				<key>FacemeshParameters</key>
+				<string>0.25,0.12,0.00,0.00,0.00;</string>
+				<key>FacemeshType</key>
+				<integer>2108</integer>
+				<key>LiftControlType</key>
+				<integer>0</integer>
+				<key>Type</key>
+				<string>Facelift</string>
+				<key>ValueRange</key>
+				<string>0.0,0.5,0.0,0.5</string>
+			</dict>
+			<!-- 鼻子 缩鼻3 -->
+			<dict>
+				<key>ControlPosition</key>
+				<string>0</string>
+				<key>FacemeshParameters</key>
+				<string>-0.10,-0.10,0.15,0.02,-0.20;</string>
+				<key>FacemeshType</key>
+				<integer>2110</integer>
+				<key>LiftControlType</key>
+				<integer>3</integer>
+				<key>Type</key>
+				<string>Facelift</string>
+				<key>ValueRange</key>
+				<string>0.0,-0.10</string>
+			</dict>
+			<!-- 缩脸 -->
+			<dict>
+				<key>ControlPosition</key>
+				<string>0</string>
+				<key>FacemeshParameters</key>
+				<string>0.39,0.00,0.00,0.79,0.00,-0.76,0.75,0.68,0.48,0.35,0.56,0.59,0.62,0.57,0.62,0.59,0.56,0.35,0.48,0.68,0.75,-0.76,0.00,0.79,0.00,0.00,0.00,0.00,0.09,0.00,-0.35,0.00,0.05,0.17,0.25,0.37,0.24,0.26,-0.01,0.26,0.24,0.37,0.25,0.17,0.05,0.00,-0.35,0.00,0.09,0.00,0.00;</string>
+				<key>FacemeshType</key>
+				<integer>2199</integer>
+				<key>LiftControlType</key>
+				<integer>1</integer>
+				<key>Type</key>
+				<string>Facelift</string>
+				<key>ValueRange</key>
+				<string>0.0,0.45</string>
+			</dict>
+			<!-- 小脸 -->
+			<dict>
+				<key>ControlPosition</key>
+				<string>0</string>
+				<key>FacemeshParameters</key>
+				<string>0.12;</string>
+				<key>FacemeshType</key>
+				<integer>2400</integer>
+				<key>LiftControlType</key>
+				<integer>12</integer>
+				<key>Type</key>
+				<string>Facelift</string>
+				<key>ValueRange</key>
+				<string>0.0,0.4</string>
+			</dict>
+			</array>
+		<key>ID</key>
+		<integer>0</integer>
+		<key>Name</key>
+		<string>Unknown</string>
+	</dict>
+</array>
+</plist>

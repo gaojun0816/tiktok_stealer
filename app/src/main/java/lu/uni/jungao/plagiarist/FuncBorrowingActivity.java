@@ -11,6 +11,7 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 import java.io.IOException;
 
@@ -50,6 +51,25 @@ public class FuncBorrowingActivity extends AppCompatActivity {
     }
 
     public void onSpotFace(View v) {
+        if (img == null) {
+            Toast.makeText(this.getApplicationContext(),
+                    "Choose a image first", Toast.LENGTH_LONG).show();
+            return;
+        }
+        FaceDetector fd = FaceDetector.getInstance(this.getApplicationContext());
+        Integer faceNum = fd.getFaceNum(img);
+        if (faceNum == null) {
+            Toast.makeText(this.getApplicationContext(),
+                    "No faces dectected", Toast.LENGTH_LONG).show();
+        } else {
+            Toast.makeText(this.getApplicationContext(),
+                    "detected " + faceNum.toString() + " face(s)", Toast.LENGTH_LONG).show();
+        }
 
+
+//        Bitmap cutted = fd.cut(img);
+//        iv.setImageBitmap(cutted);
+
+//       fd.showAssests();
     }
 }

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<textBubble>
+    <resId>10139995</resId>
+    <version>1</version>
+    <name>xiaoe</name>
+    <iconPath>thumbnail.mate</iconPath>
+    <width>600</width>
+    <height>200</height>
+    <backgroundImagePath>bg.thu</backgroundImagePath>
+    <mirrorReverse>1</mirrorReverse>
+    <imagePieceArray/>
+    <textPieceArray>
+        <textPiece>
+            <type>0</type>
+            <text>Photo by Meitu</text>
+            <format/>
+            <language/>
+            <align>1</align>
+            <caseString>0</caseString>
+            <editable>true</editable>
+            <color>#000000FF</color>
+            <isBold>false</isBold>
+            <showShadow>false</showShadow>
+            <showPinyin/>
+            <shadowOffset/>
+            <shadowColor/>
+            <frameRect>{{0,58},{600,85}}</frameRect>
+            <font>Georgia</font>
+            <isVerticalText>false</isVerticalText>
+            <verticalAlign>1</verticalAlign>
+            <maxTextHeight>60</maxTextHeight>
+            <minTextHeight>0</minTextHeight>
+        </textPiece>
+    </textPieceArray>
+    <activity>
+        <expired/>
+        <sina/>
+        <qzone/>
+        <tencent/>
+    </activity>
+</textBubble>

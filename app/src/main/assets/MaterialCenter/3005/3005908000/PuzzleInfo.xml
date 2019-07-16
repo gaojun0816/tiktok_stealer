@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<puzzle>
+    <resId>3005908000</resId>
+    <version>1</version>
+    <name>自由拼图模板8</name>
+    <iconPath>thumbnail.post</iconPath>
+    <width>1000</width>
+    <height>1500</height>
+    <!-- 图片的缩放形式： 0：居中适配； 1：宽度固定，长度自适应，超过视图高度可上下滑动-->
+    <scaleType>0</scaleType>
+    <photoAmount>8</photoAmount>
+    <formatAmount>1</formatAmount>
+    <backgroundColor>#fffffffFF</backgroundColor>
+    <backgroundImagePath />
+    <backgroundTile />
+
+    <puzzlePieces>
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,0},{1000,1500}}</frameRect>
+            </frameRectArray>
+            <matrixTransformContentByTouch>true</matrixTransformContentByTouch>
+            <confinedInCell>false</confinedInCell>
+            <contentMode>1</contentMode>
+            <photoIndex>0</photoIndex>
+            <rotate>0</rotate>
+            <scaleRatio>0.45</scaleRatio>
+            <centerPointHorizontalBias>-0.25</centerPointHorizontalBias>
+            <centerPointVerticalBias>-0.25</centerPointVerticalBias>
+        </photoPuzzle>
+
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,0},{1000,1500}}</frameRect>
+            </frameRectArray>
+            <matrixTransformContentByTouch>true</matrixTransformContentByTouch>
+            <confinedInCell>false</confinedInCell>
+            <contentMode>1</contentMode>
+            <photoIndex>1</photoIndex>
+            <rotate>0</rotate>
+            <scaleRatio>0.2</scaleRatio>
+            <centerPointHorizontalBias>0.3</centerPointHorizontalBias>
+            <centerPointVerticalBias>-0.35</centerPointVerticalBias>
+        </photoPuzzle>
+
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,0},{1000,1500}}</frameRect>
+            </frameRectArray>
+            <matrixTransformContentByTouch>true</matrixTransformContentByTouch>
+            <confinedInCell>false</confinedInCell>
+            <contentMode>1</contentMode>
+            <photoIndex>2</photoIndex>
+            <rotate>0</rotate>
+            <scaleRatio>0.2</scaleRatio>
+            <centerPointHorizontalBias>0.3</centerPointHorizontalBias>
+            <centerPointVerticalBias>-0.15</centerPointVerticalBias>
+        </photoPuzzle>
+
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,0},{1000,1500}}</frameRect>
+            </frameRectArray>
+            <matrixTransformContentByTouch>true</matrixTransformContentByTouch>
+            <confinedInCell>false</confinedInCell>
+            <contentMode>1</contentMode>
+            <photoIndex>3</photoIndex>
+            <rotate>0</rotate>
+            <scaleRatio>0.25</scaleRatio>
+            <centerPointHorizontalBias>-0.3</centerPointHorizontalBias>
+            <centerPointVerticalBias>0.1</centerPointVerticalBias>
+        </photoPuzzle>
+
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,0},{1000,1500}}</frameRect>
+            </frameRectArray>
+            <matrixTransformContentByTouch>true</matrixTransformContentByTouch>
+            <confinedInCell>false</confinedInCell>
+            <contentMode>1</contentMode>
+            <photoIndex>4</photoIndex>
+            <rotate>0</rotate>
+            <scaleRatio>0.25</scaleRatio>
+            <centerPointHorizontalBias>0</centerPointHorizontalBias>
+            <centerPointVerticalBias>0.1</centerPointVerticalBias>
+        </photoPuzzle>
+
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,0},{1000,1500}}</frameRect>
+            </frameRectArray>
+            <matrixTransformContentByTouch>true</matrixTransformContentByTouch>
+            <confinedInCell>false</confinedInCell>
+            <contentMode>1</contentMode>
+            <photoIndex>5</photoIndex>
+            <rotate>0</rotate>
+            <scaleRatio>0.25</scaleRatio>
+            <centerPointHorizontalBias>0.3</centerPointHorizontalBias>
+            <centerPointVerticalBias>0.1</centerPointVerticalBias>
+        </photoPuzzle>
+
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,0},{1000,1500}}</frameRect>
+            </frameRectArray>
+            <matrixTransformContentByTouch>true</matrixTransformContentByTouch>
+            <confinedInCell>false</confinedInCell>
+            <contentMode>1</contentMode>
+            <photoIndex>6</photoIndex>
+            <rotate>-10</rotate>
+            <scaleRatio>0.4</scaleRatio>
+            <centerPointHorizontalBias>-0.25</centerPointHorizontalBias>
+            <centerPointVerticalBias>0.3</centerPointVerticalBias>
+        </photoPuzzle>
+
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,0},{1000,1500}}</frameRect>
+            </frameRectArray>
+            <matrixTransformContentByTouch>true</matrixTransformContentByTouch>
+            <confinedInCell>false</confinedInCell>
+            <contentMode>1</contentMode>
+            <photoIndex>7</photoIndex>
+            <rotate>5</rotate>
+            <scaleRatio>0.25</scaleRatio>
+            <centerPointHorizontalBias>0.25</centerPointHorizontalBias>
+            <centerPointVerticalBias>0.3</centerPointVerticalBias>
+        </photoPuzzle>
+    </puzzlePieces>
+</puzzle>

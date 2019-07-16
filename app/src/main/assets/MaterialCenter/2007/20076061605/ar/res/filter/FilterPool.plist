@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FSPath</key>
+		<string>Noise_ColorOffset.fs</string>
+		<key>VSPath</key>
+		<string>Noise_ColorOffset.vs</string>
+		<key>GenWH</key>
+		<string>1</string>
+		<key>Name</key>
+		<string>Noise_ColorOffset</string>
+		<key>Params</key>
+		<array>
+			<dict>
+				<key>Key</key><string>grainLookupTexture</string>
+				<key>DataType</key><string>image</string>
+				<key>ImagePath</key><string>grain.jpg</string>
+			</dict>
+			<dict>
+				<key>DataType</key><string>float</string>
+				<key>Key</key><string>alpha</string>
+				<key>Value</key><string>0.3</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

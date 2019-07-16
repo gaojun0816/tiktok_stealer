@@ -1,0 +1,3274 @@
+{
+  "Europe/Andorra": {
+    "country_code": "AD",
+    "country": "安道尔",
+    "country_en": "Andorra",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Katmandu": {
+    "country_code": "NP",
+    "country": "尼泊尔",
+    "country_en": "Nepal",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Dubai": {
+    "country_code": "AE",
+    "country": "阿联酋",
+    "country_en": "United Arab Emifrates",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Kabul": {
+    "country_code": "AF",
+    "country": "阿富汗",
+    "country_en": "Afghanistan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "America/Antigua": {
+    "country_code": "AG",
+    "country": "安提瓜和巴布达",
+    "country_en": "Antigua and Barbuda",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Anguilla": {
+    "country_code": "AI",
+    "country": "安圭拉",
+    "country_en": "Anguilla",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Europe/Tirane": {
+    "country_code": "AL",
+    "country": "阿尔巴尼亚",
+    "country_en": "Albania",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Yerevan": {
+    "country_code": "AM",
+    "country": "亚美尼亚",
+    "country_en": "Armenia",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Africa/Luanda": {
+    "country_code": "AO",
+    "country": "安哥拉",
+    "country_en": "Angola",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "America/Argentina/Buenos_Aires": {
+    "country_code": "AR",
+    "country": "阿根廷",
+    "country_en": "Argentina",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Argentina/Catamarca": {
+    "country_code": "AR",
+    "country": "阿根廷",
+    "country_en": "Argentina",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Argentina/Cordoba": {
+    "country_code": "AR",
+    "country": "阿根廷",
+    "country_en": "Argentina",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Argentina/Jujuy": {
+    "country_code": "AR",
+    "country": "阿根廷",
+    "country_en": "Argentina",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Argentina/La_Rioja": {
+    "country_code": "AR",
+    "country": "阿根廷",
+    "country_en": "Argentina",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Argentina/Mendoza": {
+    "country_code": "AR",
+    "country": "阿根廷",
+    "country_en": "Argentina",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Argentina/Rio_Gallegos": {
+    "country_code": "AR",
+    "country": "阿根廷",
+    "country_en": "Argentina",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Argentina/Salta": {
+    "country_code": "AR",
+    "country": "阿根廷",
+    "country_en": "Argentina",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Argentina/San_Juan": {
+    "country_code": "AR",
+    "country": "阿根廷",
+    "country_en": "Argentina",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Argentina/San_Luis": {
+    "country_code": "AR",
+    "country": "阿根廷",
+    "country_en": "Argentina",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Argentina/Tucuman": {
+    "country_code": "AR",
+    "country": "阿根廷",
+    "country_en": "Argentina",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Argentina/Ushuaia": {
+    "country_code": "AR",
+    "country": "阿根廷",
+    "country_en": "Argentina",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "Pacific/Pago_Pago": {
+    "country_code": "AS",
+    "country": "美属萨摩亚",
+    "country_en": "American Samoa",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Europe/Vienna": {
+    "country_code": "AT",
+    "country": "奥地利",
+    "country_en": "Austria",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Australia/Adelaide": {
+    "country_code": "AU",
+    "country": "澳大利亚",
+    "country_en": "Australia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Australia/Brisbane": {
+    "country_code": "AU",
+    "country": "澳大利亚",
+    "country_en": "Australia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Australia/Broken_Hill": {
+    "country_code": "AU",
+    "country": "澳大利亚",
+    "country_en": "Australia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Australia/Currie": {
+    "country_code": "AU",
+    "country": "澳大利亚",
+    "country_en": "Australia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Australia/Darwin": {
+    "country_code": "AU",
+    "country": "澳大利亚",
+    "country_en": "Australia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Australia/Eucla": {
+    "country_code": "AU",
+    "country": "澳大利亚",
+    "country_en": "Australia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Australia/Hobart": {
+    "country_code": "AU",
+    "country": "澳大利亚",
+    "country_en": "Australia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Australia/Lindeman": {
+    "country_code": "AU",
+    "country": "澳大利亚",
+    "country_en": "Australia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Australia/Lord_Howe": {
+    "country_code": "AU",
+    "country": "澳大利亚",
+    "country_en": "Australia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Australia/Melbourne": {
+    "country_code": "AU",
+    "country": "澳大利亚",
+    "country_en": "Australia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Australia/Perth": {
+    "country_code": "AU",
+    "country": "澳大利亚",
+    "country_en": "Australia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Australia/Sydney": {
+    "country_code": "AU",
+    "country": "澳大利亚",
+    "country_en": "Australia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "America/Aruba": {
+    "country_code": "AW",
+    "country": "阿鲁巴",
+    "country_en": "Aruba",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Europe/Mariehamn": {
+    "country_code": "AX",
+    "country": "奥兰",
+    "country_en": "Åland Islands",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Baku": {
+    "country_code": "AZ",
+    "country": "阿塞拜疆",
+    "country_en": "Azerbaijan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Europe/Sarajevo": {
+    "country_code": "BA",
+    "country": "波斯尼亚和黑塞哥维那",
+    "country_en": "Bosnia and Herzegovina",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "America/Barbados": {
+    "country_code": "BB",
+    "country": "巴巴多斯",
+    "country_en": "Barbados",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Asia/Dhaka": {
+    "country_code": "BD",
+    "country": "孟加拉国",
+    "country_en": "Bangladesh",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Europe/Brussels": {
+    "country_code": "BE",
+    "country": "比利时",
+    "country_en": "Belgium",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Africa/Ouagadougou": {
+    "country_code": "BF",
+    "country": "布基纳法索",
+    "country_en": "Burkina Faso",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/Sofia": {
+    "country_code": "BG",
+    "country": "保加利亚",
+    "country_en": "Bulgaria",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Bahrain": {
+    "country_code": "BH",
+    "country": "巴林",
+    "country_en": "Bahrain",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Africa/Bujumbura": {
+    "country_code": "BI",
+    "country": "布隆迪",
+    "country_en": "Burundi",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Porto-Novo": {
+    "country_code": "BJ",
+    "country": "贝宁",
+    "country_en": "Benin",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "America/St_Barthelemy": {
+    "country_code": "BL",
+    "country": "圣巴泰勒米",
+    "country_en": "Saint Barthélemy",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Atlantic/Bermuda": {
+    "country_code": "BM",
+    "country": "百慕大",
+    "country_en": "Bermuda",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Brunei": {
+    "country_code": "BN",
+    "country": "文莱",
+    "country_en": "Brunei Darussalam",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "America/La_Paz": {
+    "country_code": "BO",
+    "country": "玻利维亚",
+    "country_en": "Bolivia (Plurinational State of)",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Kralendijk": {
+    "country_code": "BQ",
+    "country": "加勒比荷兰",
+    "country_en": "Bonaire, Sint Eustatius and Saba",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Araguaina": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Bahia": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Belem": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Boa_Vista": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Campo_Grande": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Cuiaba": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Eirunepe": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Fortaleza": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Maceio": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Manaus": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Noronha": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Porto_Velho": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Recife": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Rio_Branco": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Santarem": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Sao_Paulo": {
+    "country_code": "BR",
+    "country": "巴西",
+    "country_en": "Brazil",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Nassau": {
+    "country_code": "BS",
+    "country": "巴哈马",
+    "country_en": "Bahamas",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Asia/Thimphu": {
+    "country_code": "BT",
+    "country": "不丹",
+    "country_en": "Bhutan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Africa/Gaborone": {
+    "country_code": "BW",
+    "country": "博茨瓦纳",
+    "country_en": "Botswana",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/Minsk": {
+    "country_code": "BY",
+    "country": "白俄罗斯",
+    "country_en": "Belarus",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "America/Belize": {
+    "country_code": "BZ",
+    "country": "伯利兹",
+    "country_en": "Belize",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Atikokan": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Blanc-Sablon": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Cambridge_Bay": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Creston": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Dawson": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Dawson_Creek": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Edmonton": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Glace_Bay": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Goose_Bay": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Halifax": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Inuvik": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Iqaluit": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Moncton": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Montreal": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Nipigon": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Pangnirtung": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Rainy_River": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Rankin_Inlet": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Regina": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Resolute": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/St_Johns": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Swift_Current": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Thunder_Bay": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Toronto": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Vancouver": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Whitehorse": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Winnipeg": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Yellowknife": {
+    "country_code": "CA",
+    "country": "加拿大",
+    "country_en": "Canada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Indian/Cocos": {
+    "country_code": "CC",
+    "country": "科科斯（基林）群岛",
+    "country_en": "Cocos (Keeling) Islands",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Africa/Kinshasa": {
+    "country_code": "CD",
+    "country": "刚果（金）",
+    "country_en": "Congo (Democratic Republic of the)",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Lubumbashi": {
+    "country_code": "CD",
+    "country": "刚果（金）",
+    "country_en": "Congo (Democratic Republic of the)",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Bangui": {
+    "country_code": "CF",
+    "country": "中非共和国",
+    "country_en": "Central African Republic",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Brazzaville": {
+    "country_code": "CG",
+    "country": "刚果（布）",
+    "country_en": "Congo",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/Zurich": {
+    "country_code": "CH",
+    "country": "瑞士",
+    "country_en": "Switzerland",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Africa/Abidjan": {
+    "country_code": "CI",
+    "country": "科特迪瓦",
+    "country_en": "Côte d'Ivoire",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Pacific/Rarotonga": {
+    "country_code": "CK",
+    "country": "库克群岛",
+    "country_en": "Cook Islands",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "America/Santiago": {
+    "country_code": "CL",
+    "country": "智利",
+    "country_en": "Chile",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "Pacific/Easter": {
+    "country_code": "CL",
+    "country": "智利",
+    "country_en": "Chile",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "Africa/Douala": {
+    "country_code": "CM",
+    "country": "喀麦隆",
+    "country_en": "Cameroon",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Asia/Chongqing": {
+    "country_code": "CN",
+    "country": "中国",
+    "country_en": "China",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Harbin": {
+    "country_code": "CN",
+    "country": "中国",
+    "country_en": "China",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Kashgar": {
+    "country_code": "CN",
+    "country": "中国",
+    "country_en": "China",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Shanghai": {
+    "country_code": "CN",
+    "country": "中国",
+    "country_en": "China",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Urumqi": {
+    "country_code": "CN",
+    "country": "中国",
+    "country_en": "China",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "America/Bogota": {
+    "country_code": "CO",
+    "country": "哥伦比亚",
+    "country_en": "Colombia",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Costa_Rica": {
+    "country_code": "CR",
+    "country": "哥斯达黎加",
+    "country_en": "Costa Rica",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Havana": {
+    "country_code": "CU",
+    "country": "古巴",
+    "country_en": "Cuba",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Atlantic/Cape_Verde": {
+    "country_code": "CV",
+    "country": "佛得角",
+    "country_en": "Cabo Verde",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "America/Curacao": {
+    "country_code": "CW",
+    "country": "库拉索",
+    "country_en": "Curaçao",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Indian/Christmas": {
+    "country_code": "CX",
+    "country": "圣诞岛",
+    "country_en": "Christmas Island",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Asia/Nicosia": {
+    "country_code": "CY",
+    "country": "塞浦路斯",
+    "country_en": "Cyprus",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Europe/Prague": {
+    "country_code": "CZ",
+    "country": "捷克",
+    "country_en": "Czech Republic",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Berlin": {
+    "country_code": "DE",
+    "country": "德国",
+    "country_en": "Germany",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Busingen": {
+    "country_code": "DE",
+    "country": "德国",
+    "country_en": "Germany",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Africa/Djibouti": {
+    "country_code": "DJ",
+    "country": "吉布提",
+    "country_en": "Djibouti",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/Copenhagen": {
+    "country_code": "DK",
+    "country": "丹麦",
+    "country_en": "Denmark",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "America/Dominica": {
+    "country_code": "DM",
+    "country": "多米尼克",
+    "country_en": "Dominica",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Santo_Domingo": {
+    "country_code": "DO",
+    "country": "多米尼加",
+    "country_en": "Dominican Republic",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Africa/Algiers": {
+    "country_code": "DZ",
+    "country": "阿尔及利亚",
+    "country_en": "Algeria",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "America/Guayaquil": {
+    "country_code": "EC",
+    "country": "厄瓜多尔",
+    "country_en": "Ecuador",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "Pacific/Galapagos": {
+    "country_code": "EC",
+    "country": "厄瓜多尔",
+    "country_en": "Ecuador",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "Europe/Tallinn": {
+    "country_code": "EE",
+    "country": "爱沙尼亚",
+    "country_en": "Estonia",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Africa/Cairo": {
+    "country_code": "EG",
+    "country": "埃及",
+    "country_en": "Egypt",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/El_Aaiun": {
+    "country_code": "EH",
+    "country": "阿拉伯撒哈拉民主共和国",
+    "country_en": "Western Sahara",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Asmara": {
+    "country_code": "ER",
+    "country": "厄立特里亚",
+    "country_en": "Eritrea",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Ceuta": {
+    "country_code": "ES",
+    "country": "西班牙",
+    "country_en": "Spain",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Atlantic/Canary": {
+    "country_code": "ES",
+    "country": "西班牙",
+    "country_en": "Spain",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Madrid": {
+    "country_code": "ES",
+    "country": "西班牙",
+    "country_en": "Spain",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Africa/Addis_Ababa": {
+    "country_code": "ET",
+    "country": "埃塞俄比亚",
+    "country_en": "Ethiopia",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/Helsinki": {
+    "country_code": "FI",
+    "country": "芬兰",
+    "country_en": "Finland",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Pacific/Fiji": {
+    "country_code": "FJ",
+    "country": "斐济",
+    "country_en": "Fiji",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Atlantic/Stanley": {
+    "country_code": "FK",
+    "country": "福克兰群岛",
+    "country_en": "Falkland Islands (Malvinas)",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "Pacific/Chuuk": {
+    "country_code": "FM",
+    "country": "密克罗尼西亚联邦",
+    "country_en": "Micronesia (Federated States of)",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Pacific/Kosrae": {
+    "country_code": "FM",
+    "country": "密克罗尼西亚联邦",
+    "country_en": "Micronesia (Federated States of)",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Pacific/Pohnpei": {
+    "country_code": "FM",
+    "country": "密克罗尼西亚联邦",
+    "country_en": "Micronesia (Federated States of)",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Atlantic/Faroe": {
+    "country_code": "FO",
+    "country": "法罗群岛",
+    "country_en": "Faroe Islands",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Paris": {
+    "country_code": "FR",
+    "country": "法国",
+    "country_en": "France",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Africa/Libreville": {
+    "country_code": "GA",
+    "country": "加蓬",
+    "country_en": "Gabon",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/London": {
+    "country_code": "GB",
+    "country": "英国",
+    "country_en": "United Kingdom of Great Britain and Northern Ireland",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "America/Grenada": {
+    "country_code": "GD",
+    "country": "格林纳达",
+    "country_en": "Grenada",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Asia/Tbilisi": {
+    "country_code": "GE",
+    "country": "格鲁吉亚",
+    "country_en": "Georgia",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "America/Cayenne": {
+    "country_code": "GF",
+    "country": "法属圭亚那",
+    "country_en": "French Guiana",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "Europe/Guernsey": {
+    "country_code": "GG",
+    "country": "根西",
+    "country_en": "Guernsey",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Africa/Accra": {
+    "country_code": "GH",
+    "country": "加纳",
+    "country_en": "Ghana",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/Gibraltar": {
+    "country_code": "GI",
+    "country": "直布罗陀",
+    "country_en": "Gibraltar",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "America/Danmarkshavn": {
+    "country_code": "GL",
+    "country": "格陵兰",
+    "country_en": "Greenland",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Godthab": {
+    "country_code": "GL",
+    "country": "格陵兰",
+    "country_en": "Greenland",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Scoresbysund": {
+    "country_code": "GL",
+    "country": "格陵兰",
+    "country_en": "Greenland",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Thule": {
+    "country_code": "GL",
+    "country": "格陵兰",
+    "country_en": "Greenland",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Africa/Banjul": {
+    "country_code": "GM",
+    "country": "冈比亚",
+    "country_en": "Gambia",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Conakry": {
+    "country_code": "GN",
+    "country": "几内亚",
+    "country_en": "Guinea",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "America/Guadeloupe": {
+    "country_code": "GP",
+    "country": "瓜德罗普",
+    "country_en": "Guadeloupe",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Africa/Malabo": {
+    "country_code": "GQ",
+    "country": "赤道几内亚",
+    "country_en": "Equatorial Guinea",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/Athens": {
+    "country_code": "GR",
+    "country": "希腊",
+    "country_en": "Greece",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Atlantic/South_Georgia": {
+    "country_code": "GS",
+    "country": "南乔治亚和南桑威奇群岛",
+    "country_en": "South Georgia and the South Sandwich Islands",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Guatemala": {
+    "country_code": "GT",
+    "country": "危地马拉",
+    "country_en": "Guatemala",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Pacific/Guam": {
+    "country_code": "GU",
+    "country": "关岛",
+    "country_en": "Guam",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Africa/Bissau": {
+    "country_code": "GW",
+    "country": "几内亚比绍",
+    "country_en": "Guinea-Bissau",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "America/Guyana": {
+    "country_code": "GY",
+    "country": "圭亚那",
+    "country_en": "Guyana",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "Asia/Hong_Kong": {
+    "country_code": "HK",
+    "country": "香港",
+    "country_en": "Hong Kong",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "America/Tegucigalpa": {
+    "country_code": "HN",
+    "country": "洪都拉斯",
+    "country_en": "Honduras",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Europe/Zagreb": {
+    "country_code": "HR",
+    "country": "克罗地亚",
+    "country_en": "Croatia",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "America/Port-au-Prince": {
+    "country_code": "HT",
+    "country": "海地",
+    "country_en": "Haiti",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Europe/Budapest": {
+    "country_code": "HU",
+    "country": "匈牙利",
+    "country_en": "Hungary",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Jakarta": {
+    "country_code": "ID",
+    "country": "印尼",
+    "country_en": "Indonesia",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Jayapura": {
+    "country_code": "ID",
+    "country": "印尼",
+    "country_en": "Indonesia",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Makassar": {
+    "country_code": "ID",
+    "country": "印尼",
+    "country_en": "Indonesia",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Pontianak": {
+    "country_code": "ID",
+    "country": "印尼",
+    "country_en": "Indonesia",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Europe/Dublin": {
+    "country_code": "IE",
+    "country": "爱尔兰",
+    "country_en": "Ireland",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Jerusalem": {
+    "country_code": "IL",
+    "country": "以色列",
+    "country_en": "Israel",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Europe/Isle_of_Man": {
+    "country_code": "IM",
+    "country": "马恩岛",
+    "country_en": "Isle of Man",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Kolkata": {
+    "country_code": "IN",
+    "country": "印度",
+    "country_en": "India",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Calcutta": {
+    "country_code": "IN",
+    "country": "印度",
+    "country_en": "India",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Indian/Chagos": {
+    "country_code": "IO",
+    "country": "英属印度洋领地",
+    "country_en": "British Indian Ocean Territory",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Baghdad": {
+    "country_code": "IQ",
+    "country": "伊拉克",
+    "country_en": "Iraq",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Tehran": {
+    "country_code": "IR",
+    "country": "伊朗",
+    "country_en": "Iran (Islamic Republic of)",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Atlantic/Reykjavik": {
+    "country_code": "IS",
+    "country": "冰岛",
+    "country_en": "Iceland",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Rome": {
+    "country_code": "IT",
+    "country": "意大利",
+    "country_en": "Italy",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Jersey": {
+    "country_code": "JE",
+    "country": "泽西",
+    "country_en": "Jersey",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "America/Jamaica": {
+    "country_code": "JM",
+    "country": "牙买加",
+    "country_en": "Jamaica",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Asia/Amman": {
+    "country_code": "JO",
+    "country": "约旦",
+    "country_en": "Jordan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Tokyo": {
+    "country_code": "JP",
+    "country": "日本",
+    "country_en": "Japan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Africa/Nairobi": {
+    "country_code": "KE",
+    "country": "肯尼亚",
+    "country_en": "Kenya",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Asia/Bishkek": {
+    "country_code": "KG",
+    "country": "吉尔吉斯斯坦",
+    "country_en": "Kyrgyzstan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Phnom_Penh": {
+    "country_code": "KH",
+    "country": "柬埔寨",
+    "country_en": "Cambodia",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Pacific/Enderbury": {
+    "country_code": "KI",
+    "country": "基里巴斯",
+    "country_en": "Kiribati",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Pacific/Kiritimati": {
+    "country_code": "KI",
+    "country": "基里巴斯",
+    "country_en": "Kiribati",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Pacific/Tarawa": {
+    "country_code": "KI",
+    "country": "基里巴斯",
+    "country_en": "Kiribati",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Indian/Comoro": {
+    "country_code": "KM",
+    "country": "科摩罗",
+    "country_en": "Comoros",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "America/St_Kitts": {
+    "country_code": "KN",
+    "country": "圣基茨和尼维斯",
+    "country_en": "Saint Kitts and Nevis",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Asia/Pyongyang": {
+    "country_code": "KP",
+    "country": "朝鲜",
+    "country_en": "Korea (Democratic People's Republic of)",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Seoul": {
+    "country_code": "KR",
+    "country": "韩国",
+    "country_en": "Korea (Republic of)",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Kuwait": {
+    "country_code": "KW",
+    "country": "科威特",
+    "country_en": "Kuwait",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "America/Cayman": {
+    "country_code": "KY",
+    "country": "开曼群岛",
+    "country_en": "Cayman Islands",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Asia/Almaty": {
+    "country_code": "KZ",
+    "country": "哈萨克斯坦",
+    "country_en": "Kazakhstan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Aqtau": {
+    "country_code": "KZ",
+    "country": "哈萨克斯坦",
+    "country_en": "Kazakhstan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Aqtobe": {
+    "country_code": "KZ",
+    "country": "哈萨克斯坦",
+    "country_en": "Kazakhstan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Oral": {
+    "country_code": "KZ",
+    "country": "哈萨克斯坦",
+    "country_en": "Kazakhstan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Qyzylorda": {
+    "country_code": "KZ",
+    "country": "哈萨克斯坦",
+    "country_en": "Kazakhstan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Vientiane": {
+    "country_code": "LA",
+    "country": "老挝",
+    "country_en": "Lao People's Democratic Republic",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Beirut": {
+    "country_code": "LB",
+    "country": "黎巴嫩",
+    "country_en": "Lebanon",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "America/St_Lucia": {
+    "country_code": "LC",
+    "country": "圣卢西亚",
+    "country_en": "Saint Lucia",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Europe/Vaduz": {
+    "country_code": "LI",
+    "country": "列支敦士登",
+    "country_en": "Liechtenstein",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Colombo": {
+    "country_code": "LK",
+    "country": "斯里兰卡",
+    "country_en": "Sri Lanka",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Africa/Monrovia": {
+    "country_code": "LR",
+    "country": "利比里亚",
+    "country_en": "Liberia",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Maseru": {
+    "country_code": "LS",
+    "country": "莱索托",
+    "country_en": "Lesotho",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/Vilnius": {
+    "country_code": "LT",
+    "country": "立陶宛",
+    "country_en": "Lithuania",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Luxembourg": {
+    "country_code": "LU",
+    "country": "卢森堡",
+    "country_en": "Luxembourg",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Riga": {
+    "country_code": "LV",
+    "country": "拉脱维亚",
+    "country_en": "Latvia",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Africa/Tripoli": {
+    "country_code": "LY",
+    "country": "利比亚",
+    "country_en": "Libya",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Casablanca": {
+    "country_code": "MA",
+    "country": "摩洛哥",
+    "country_en": "Morocco",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/Monaco": {
+    "country_code": "MC",
+    "country": "摩纳哥",
+    "country_en": "Monaco",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Chisinau": {
+    "country_code": "MD",
+    "country": "摩尔多瓦",
+    "country_en": "Moldova (Republic of)",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Podgorica": {
+    "country_code": "ME",
+    "country": "黑山",
+    "country_en": "Montenegro",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "America/Marigot": {
+    "country_code": "MF",
+    "country": "圣马丁行政区",
+    "country_en": "Saint Martin (French part)",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Indian/Antananarivo": {
+    "country_code": "MG",
+    "country": "马达加斯加",
+    "country_en": "Madagascar",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Pacific/Kwajalein": {
+    "country_code": "MH",
+    "country": "马绍尔群岛",
+    "country_en": "Marshall Islands",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Pacific/Majuro": {
+    "country_code": "MH",
+    "country": "马绍尔群岛",
+    "country_en": "Marshall Islands",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Europe/Skopje": {
+    "country_code": "MK",
+    "country": "马其顿",
+    "country_en": "Macedonia (the former Yugoslav Republic of)",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Africa/Bamako": {
+    "country_code": "ML",
+    "country": "马里",
+    "country_en": "Mali",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Asia/Rangoon": {
+    "country_code": "MM",
+    "country": "缅甸",
+    "country_en": "Myanmar",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Choibalsan": {
+    "country_code": "MN",
+    "country": "蒙古国",
+    "country_en": "Mongolia",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Hovd": {
+    "country_code": "MN",
+    "country": "蒙古国",
+    "country_en": "Mongolia",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Ulaanbaatar": {
+    "country_code": "MN",
+    "country": "蒙古国",
+    "country_en": "Mongolia",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Macau": {
+    "country_code": "MO",
+    "country": "澳门",
+    "country_en": "Macao",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Pacific/Saipan": {
+    "country_code": "MP",
+    "country": "北马里亚纳群岛",
+    "country_en": "Northern Mariana Islands",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "America/Martinique": {
+    "country_code": "MQ",
+    "country": "马提尼克",
+    "country_en": "Martinique",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Africa/Nouakchott": {
+    "country_code": "MR",
+    "country": "毛里塔尼亚",
+    "country_en": "Mauritania",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "America/Montserrat": {
+    "country_code": "MS",
+    "country": "蒙特塞拉特",
+    "country_en": "Montserrat",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Europe/Malta": {
+    "country_code": "MT",
+    "country": "马耳他",
+    "country_en": "Malta",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Indian/Mauritius": {
+    "country_code": "MU",
+    "country": "毛里求斯",
+    "country_en": "Mauritius",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Indian/Maldives": {
+    "country_code": "MV",
+    "country": "马尔代夫",
+    "country_en": "Maldives",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Africa/Blantyre": {
+    "country_code": "MW",
+    "country": "马拉维",
+    "country_en": "Malawi",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "America/Bahia_Banderas": {
+    "country_code": "MX",
+    "country": "墨西哥",
+    "country_en": "Mexico",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Cancun": {
+    "country_code": "MX",
+    "country": "墨西哥",
+    "country_en": "Mexico",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Chihuahua": {
+    "country_code": "MX",
+    "country": "墨西哥",
+    "country_en": "Mexico",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Hermosillo": {
+    "country_code": "MX",
+    "country": "墨西哥",
+    "country_en": "Mexico",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Matamoros": {
+    "country_code": "MX",
+    "country": "墨西哥",
+    "country_en": "Mexico",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Mazatlan": {
+    "country_code": "MX",
+    "country": "墨西哥",
+    "country_en": "Mexico",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Merida": {
+    "country_code": "MX",
+    "country": "墨西哥",
+    "country_en": "Mexico",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Mexico_City": {
+    "country_code": "MX",
+    "country": "墨西哥",
+    "country_en": "Mexico",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Monterrey": {
+    "country_code": "MX",
+    "country": "墨西哥",
+    "country_en": "Mexico",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Ojinaga": {
+    "country_code": "MX",
+    "country": "墨西哥",
+    "country_en": "Mexico",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Santa_Isabel": {
+    "country_code": "MX",
+    "country": "墨西哥",
+    "country_en": "Mexico",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Tijuana": {
+    "country_code": "MX",
+    "country": "墨西哥",
+    "country_en": "Mexico",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Asia/Kuala_Lumpur": {
+    "country_code": "MY",
+    "country": "马来西亚",
+    "country_en": "Malaysia",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Kuching": {
+    "country_code": "MY",
+    "country": "马来西亚",
+    "country_en": "Malaysia",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Africa/Maputo": {
+    "country_code": "MZ",
+    "country": "莫桑比克",
+    "country_en": "Mozambique",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Windhoek": {
+    "country_code": "NA",
+    "country": "纳米比亚",
+    "country_en": "Namibia",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Pacific/Noumea": {
+    "country_code": "NC",
+    "country": "新喀里多尼亚",
+    "country_en": "New Caledonia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Africa/Niamey": {
+    "country_code": "NE",
+    "country": "尼日尔",
+    "country_en": "Niger",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Pacific/Norfolk": {
+    "country_code": "NF",
+    "country": "诺福克岛",
+    "country_en": "Norfolk Island",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Africa/Lagos": {
+    "country_code": "NG",
+    "country": "尼日利亚",
+    "country_en": "Nigeria",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "America/Managua": {
+    "country_code": "NI",
+    "country": "尼加拉瓜",
+    "country_en": "Nicaragua",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Europe/Amsterdam": {
+    "country_code": "NL",
+    "country": "荷兰",
+    "country_en": "Netherlands",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Oslo": {
+    "country_code": "NO",
+    "country": "挪威",
+    "country_en": "Norway",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Kathmandu": {
+    "country_code": "NP",
+    "country": "尼泊尔",
+    "country_en": "Nepal",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Pacific/Nauru": {
+    "country_code": "NR",
+    "country": "瑙鲁",
+    "country_en": "Nauru",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Pacific/Niue": {
+    "country_code": "NU",
+    "country": "纽埃",
+    "country_en": "Niue",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Pacific/Auckland": {
+    "country_code": "NZ",
+    "country": "新西兰",
+    "country_en": "New Zealand",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Pacific/Chatham": {
+    "country_code": "NZ",
+    "country": "新西兰",
+    "country_en": "New Zealand",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Asia/Muscat": {
+    "country_code": "OM",
+    "country": "阿曼",
+    "country_en": "Oman",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "America/Panama": {
+    "country_code": "PA",
+    "country": "巴拿马",
+    "country_en": "Panama",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Lima": {
+    "country_code": "PE",
+    "country": "秘鲁",
+    "country_en": "Peru",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "Pacific/Gambier": {
+    "country_code": "PF",
+    "country": "法属波利尼西亚",
+    "country_en": "French Polynesia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Pacific/Marquesas": {
+    "country_code": "PF",
+    "country": "法属波利尼西亚",
+    "country_en": "French Polynesia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Pacific/Tahiti": {
+    "country_code": "PF",
+    "country": "法属波利尼西亚",
+    "country_en": "French Polynesia",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Pacific/Port_Moresby": {
+    "country_code": "PG",
+    "country": "巴布亚新几内亚",
+    "country_en": "Papua New Guinea",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Asia/Manila": {
+    "country_code": "PH",
+    "country": "菲律宾",
+    "country_en": "Philippines",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Karachi": {
+    "country_code": "PK",
+    "country": "巴基斯坦",
+    "country_en": "Pakistan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Europe/Warsaw": {
+    "country_code": "PL",
+    "country": "波兰",
+    "country_en": "Poland",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "America/Miquelon": {
+    "country_code": "PM",
+    "country": "圣皮埃尔和密克隆",
+    "country_en": "Saint Pierre and Miquelon",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Pacific/Pitcairn": {
+    "country_code": "PN",
+    "country": "皮特凯恩群岛",
+    "country_en": "Pitcairn",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "America/Puerto_Rico": {
+    "country_code": "PR",
+    "country": "波多黎各",
+    "country_en": "Puerto Rico",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Asia/Gaza": {
+    "country_code": "PS",
+    "country": "巴勒斯坦",
+    "country_en": "Palestine, State of",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Hebron": {
+    "country_code": "PS",
+    "country": "巴勒斯坦",
+    "country_en": "Palestine, State of",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Atlantic/Azores": {
+    "country_code": "PT",
+    "country": "葡萄牙",
+    "country_en": "Portugal",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Atlantic/Madeira": {
+    "country_code": "PT",
+    "country": "葡萄牙",
+    "country_en": "Portugal",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Lisbon": {
+    "country_code": "PT",
+    "country": "葡萄牙",
+    "country_en": "Portugal",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Pacific/Palau": {
+    "country_code": "PW",
+    "country": "帕劳",
+    "country_en": "Palau",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "America/Asuncion": {
+    "country_code": "PY",
+    "country": "巴拉圭",
+    "country_en": "Paraguay",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "Asia/Qatar": {
+    "country_code": "QA",
+    "country": "卡塔尔",
+    "country_en": "Qatar",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Indian/Reunion": {
+    "country_code": "RE",
+    "country": "留尼汪",
+    "country_en": "Réunion",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/Bucharest": {
+    "country_code": "RO",
+    "country": "罗马尼亚",
+    "country_en": "Romania",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Belgrade": {
+    "country_code": "RS",
+    "country": "塞尔维亚",
+    "country_en": "Serbia",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Anadyr": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Irkutsk": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Kamchatka": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Khandyga": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Krasnoyarsk": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Magadan": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Novokuznetsk": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Novosibirsk": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Omsk": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Sakhalin": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Ust-Nera": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Vladivostok": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Yakutsk": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Yekaterinburg": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Kaliningrad": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Moscow": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Samara": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Volgograd": {
+    "country_code": "RU",
+    "country": "俄罗斯",
+    "country_en": "Russian Federation",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Africa/Kigali": {
+    "country_code": "RW",
+    "country": "卢旺达",
+    "country_en": "Rwanda",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Asia/Riyadh": {
+    "country_code": "SA",
+    "country": "沙特阿拉伯",
+    "country_en": "Saudi Arabia",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Pacific/Guadalcanal": {
+    "country_code": "SB",
+    "country": "所罗门群岛",
+    "country_en": "Solomon Islands",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Indian/Mahe": {
+    "country_code": "SC",
+    "country": "塞舌尔",
+    "country_en": "Seychelles",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Khartoum": {
+    "country_code": "SD",
+    "country": "苏丹",
+    "country_en": "Sudan",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/Stockholm": {
+    "country_code": "SE",
+    "country": "瑞典",
+    "country_en": "Sweden",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Asia/Singapore": {
+    "country_code": "SG",
+    "country": "新加坡",
+    "country_en": "Singapore",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Atlantic/St_Helena": {
+    "country_code": "SH",
+    "country": "圣赫勒拿",
+    "country_en": "Saint Helena, Ascension and Tristan da Cunha",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/Ljubljana": {
+    "country_code": "SI",
+    "country": "斯洛文尼亚",
+    "country_en": "Slovenia",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Arctic/Longyearbyen": {
+    "country_code": "SJ",
+    "country": "斯瓦尔巴群岛和扬马延岛",
+    "country_en": "Svalbard and Jan Mayen",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Bratislava": {
+    "country_code": "SK",
+    "country": "斯洛伐克",
+    "country_en": "Slovakia",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Africa/Freetown": {
+    "country_code": "SL",
+    "country": "塞拉利昂",
+    "country_en": "Sierra Leone",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/San_Marino": {
+    "country_code": "SM",
+    "country": "圣马力诺",
+    "country_en": "San Marino",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Africa/Dakar": {
+    "country_code": "SN",
+    "country": "塞内加尔",
+    "country_en": "Senegal",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Mogadishu": {
+    "country_code": "SO",
+    "country": "索马里",
+    "country_en": "Somalia",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "America/Paramaribo": {
+    "country_code": "SR",
+    "country": "苏里南",
+    "country_en": "Suriname",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "Africa/Juba": {
+    "country_code": "SS",
+    "country": "南苏丹",
+    "country_en": "South Sudan",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Sao_Tome": {
+    "country_code": "ST",
+    "country": "圣多美和普林西比",
+    "country_en": "Sao Tome and Principe",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "America/El_Salvador": {
+    "country_code": "SV",
+    "country": "萨尔瓦多",
+    "country_en": "El Salvador",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Lower_Princes": {
+    "country_code": "SX",
+    "country": "荷属圣马丁",
+    "country_en": "Sint Maarten (Dutch part)",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Asia/Damascus": {
+    "country_code": "SY",
+    "country": "叙利亚",
+    "country_en": "Syrian Arab Republic",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Africa/Mbabane": {
+    "country_code": "SZ",
+    "country": "斯威士兰",
+    "country_en": "Swaziland",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "America/Grand_Turk": {
+    "country_code": "TC",
+    "country": "特克斯和凯科斯群岛",
+    "country_en": "Turks and Caicos Islands",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Africa/Ndjamena": {
+    "country_code": "TD",
+    "country": "乍得",
+    "country_en": "Chad",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Indian/Kerguelen": {
+    "country_code": "TF",
+    "country": "法属南部领地",
+    "country_en": "French Southern Territories",
+    "continent_code": "5",
+    "continent": "南极洲",
+    "continent_en": "Antarctica"
+  },
+  "Africa/Lome": {
+    "country_code": "TG",
+    "country": "多哥",
+    "country_en": "Togo",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Asia/Bangkok": {
+    "country_code": "TH",
+    "country": "泰国",
+    "country_en": "Thailand",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Dushanbe": {
+    "country_code": "TJ",
+    "country": "塔吉克斯坦",
+    "country_en": "Tajikistan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Pacific/Fakaofo": {
+    "country_code": "TK",
+    "country": "托克劳",
+    "country_en": "Tokelau",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Asia/Dili": {
+    "country_code": "TL",
+    "country": "东帝汶",
+    "country_en": "Timor-Leste",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Ashgabat": {
+    "country_code": "TM",
+    "country": "土库曼斯坦",
+    "country_en": "Turkmenistan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Africa/Tunis": {
+    "country_code": "TN",
+    "country": "突尼斯",
+    "country_en": "Tunisia",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Pacific/Tongatapu": {
+    "country_code": "TO",
+    "country": "汤加",
+    "country_en": "Tonga",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Europe/Istanbul": {
+    "country_code": "TR",
+    "country": "土耳其",
+    "country_en": "Turkey",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "America/Port_of_Spain": {
+    "country_code": "TT",
+    "country": "特立尼达和多巴哥",
+    "country_en": "Trinidad and Tobago",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Pacific/Funafuti": {
+    "country_code": "TV",
+    "country": "图瓦卢",
+    "country_en": "Tuvalu",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Asia/Taipei": {
+    "country_code": "TW",
+    "country": "台湾",
+    "country_en": "Taiwan, Province of China[a]",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Africa/Dar_es_Salaam": {
+    "country_code": "TZ",
+    "country": "坦桑尼亚",
+    "country_en": "Tanzania, United Republic of",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Europe/Kiev": {
+    "country_code": "UA",
+    "country": "乌克兰",
+    "country_en": "Ukraine",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Simferopol": {
+    "country_code": "UA",
+    "country": "乌克兰",
+    "country_en": "Ukraine",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Uzhgorod": {
+    "country_code": "UA",
+    "country": "乌克兰",
+    "country_en": "Ukraine",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Europe/Zaporozhye": {
+    "country_code": "UA",
+    "country": "乌克兰",
+    "country_en": "Ukraine",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "Africa/Kampala": {
+    "country_code": "UG",
+    "country": "乌干达",
+    "country_en": "Uganda",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Pacific/Johnston": {
+    "country_code": "UM",
+    "country": "美国本土外小岛屿",
+    "country_en": "United States Minor Outlying Islands",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Pacific/Midway": {
+    "country_code": "UM",
+    "country": "美国本土外小岛屿",
+    "country_en": "United States Minor Outlying Islands",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Pacific/Wake": {
+    "country_code": "UM",
+    "country": "美国本土外小岛屿",
+    "country_en": "United States Minor Outlying Islands",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Adak": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Anchorage": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Boise": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Chicago": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Denver": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Detroit": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Indiana/Indianapolis": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Indiana/Knox": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Indiana/Marengo": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Indiana/Petersburg": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Indiana/Tell_City": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Indiana/Vevay": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Indiana/Vincennes": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Indiana/Winamac": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Juneau": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Kentucky/Louisville": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Kentucky/Monticello": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Los_Angeles": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Menominee": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Metlakatla": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/New_York": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Nome": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/North_Dakota/Beulah": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/North_Dakota/Center": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/North_Dakota/New_Salem": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Phoenix": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Shiprock": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Sitka": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Yakutat": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Pacific/Honolulu": {
+    "country_code": "US",
+    "country": "美国",
+    "country_en": "United States of America",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Montevideo": {
+    "country_code": "UY",
+    "country": "乌拉圭",
+    "country_en": "Uruguay",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "Asia/Samarkand": {
+    "country_code": "UZ",
+    "country": "乌兹别克斯坦",
+    "country_en": "Uzbekistan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Asia/Tashkent": {
+    "country_code": "UZ",
+    "country": "乌兹别克斯坦",
+    "country_en": "Uzbekistan",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Europe/Vatican": {
+    "country_code": "VA",
+    "country": "梵蒂冈",
+    "country_en": "Holy See",
+    "continent_code": "6",
+    "continent": "欧洲",
+    "continent_en": "Europe"
+  },
+  "America/St_Vincent": {
+    "country_code": "VC",
+    "country": "圣文森特和格林纳丁斯",
+    "country_en": "Saint Vincent and the Grenadines",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/Caracas": {
+    "country_code": "VE",
+    "country": "委内瑞拉",
+    "country_en": "Venezuela (Bolivarian Republic of)",
+    "continent_code": "4",
+    "continent": "南美洲",
+    "continent_en": "South America"
+  },
+  "America/Tortola": {
+    "country_code": "VG",
+    "country": "英属维尔京群岛",
+    "country_en": "Virgin Islands (British)",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "America/St_Thomas": {
+    "country_code": "VI",
+    "country": "美属维京群岛",
+    "country_en": "Virgin Islands (U.S.)",
+    "continent_code": "3",
+    "continent": "北美洲",
+    "continent_en": "North America"
+  },
+  "Asia/Ho_Chi_Minh": {
+    "country_code": "VN",
+    "country": "越南",
+    "country_en": "Viet Nam",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Pacific/Efate": {
+    "country_code": "VU",
+    "country": "瓦努阿图",
+    "country_en": "Vanuatu",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Pacific/Wallis": {
+    "country_code": "WF",
+    "country": "瓦利斯和富图纳",
+    "country_en": "Wallis and Futuna",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Pacific/Apia": {
+    "country_code": "WS",
+    "country": "萨摩亚",
+    "country_en": "Samoa",
+    "continent_code": "7",
+    "continent": "大洋洲",
+    "continent_en": "Australia"
+  },
+  "Asia/Aden": {
+    "country_code": "YE",
+    "country": "也门",
+    "country_en": "Yemen",
+    "continent_code": "1",
+    "continent": "亚洲",
+    "continent_en": "Asia"
+  },
+  "Indian/Mayotte": {
+    "country_code": "YT",
+    "country": "马约特",
+    "country_en": "Mayotte",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Johannesburg": {
+    "country_code": "ZA",
+    "country": "南非",
+    "country_en": "South Africa",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Lusaka": {
+    "country_code": "ZM",
+    "country": "赞比亚",
+    "country_en": "Zambia",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  },
+  "Africa/Harare": {
+    "country_code": "ZW",
+    "country": "津巴布韦",
+    "country_en": "Zimbabwe",
+    "continent_code": "2",
+    "continent": "非洲",
+    "continent_en": "Africa"
+  }
+}

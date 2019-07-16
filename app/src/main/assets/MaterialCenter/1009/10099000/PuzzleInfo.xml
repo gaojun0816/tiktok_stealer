@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<puzzle>
+    <resId>10099000</resId>
+    <version>1</version>
+    <name>白边框</name>
+    <iconPath>thumbnail.post</iconPath>
+    <width>1500</width>
+    <height>1500</height>
+    <photoAmount>1</photoAmount>
+    <formatAmount>1</formatAmount>
+    <backgroundColor>#ffffff</backgroundColor>
+    <backgroundImagePath />
+    <backgroundTile />
+    <backgroundType>0</backgroundType>
+    <backgroundFilter />
+    <saveAccordingToQuality>1</saveAccordingToQuality>
+    <photoPuzzlePieces>
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,0},{1500,1500}}</frameRect>
+            </frameRectArray>
+            <contentMode>4</contentMode>
+        </photoPuzzle>
+    </photoPuzzlePieces>
+    <imagePuzzlePieces />
+    <textPuzzlePieces />
+    <activity>
+        <sina />
+        <expired />
+    </activity>
+</puzzle>

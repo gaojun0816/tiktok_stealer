@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<textBubble>
+    <resId>10139996</resId>
+    <version>1</version>
+    <name>tt</name>
+    <iconPath>thumbnail.mate</iconPath>
+    <width>600</width>
+    <height>125</height>
+    <backgroundImagePath>bg.thu</backgroundImagePath>
+    <mirrorReverse>1</mirrorReverse>
+    <imagePieceArray />
+    <textPieceArray>
+        <textPiece>
+            <type>0</type>
+            <text>Photo by Meitu</text>
+            <format />
+            <language />
+            <align>0</align>
+            <caseString>0</caseString>
+            <editable>true</editable>
+            <color>#ffffffFF</color>
+            <isBold>false</isBold>
+            <showShadow>false</showShadow>
+            <showPinyin />
+            <shadowOffset />
+            <shadowColor />
+            <frameRect>{{120,20},{475,80}}</frameRect>
+            <font>SnellRoundhand</font>
+            <isVerticalText>false</isVerticalText>
+            <verticalAlign>1</verticalAlign>
+            <maxTextHeight>60</maxTextHeight>
+            <minTextHeight>0</minTextHeight>
+        </textPiece>
+    </textPieceArray>
+    <activity>
+        <expired>20161010</expired>
+        <sina>#水印2#</sina>
+        <qzone>#水印2#</qzone>
+        <tencent>#水印2#</tencent>
+    </activity>
+</textBubble>

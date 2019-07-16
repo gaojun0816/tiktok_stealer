@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<puzzle>
+    <resId>3002000042</resId>
+    <version>1</version>
+    <categoryID>1009</categoryID>
+    <name>贴纸</name>
+    <iconPath>thumbnail</iconPath>
+    <width>1500</width>
+    <height>1500</height>
+    <photoAmount>1</photoAmount>
+    <formatAmount>1</formatAmount>
+    <backgroundColor />
+    <backgroundImagePath />
+    <backgroundTile />
+    <backgroundType>0</backgroundType>
+    <bgBlurFilter />
+    <bgFilterMaterialId />
+    <photoPuzzlePieces>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{221,221},{1058,1058}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+    </photoPuzzlePieces>
+    <imagePuzzlePieces>
+        <imagePuzzle>
+            <type>0</type>
+            <imagePath>img.post</imagePath>
+            <weatherColor />
+            <frameRectArray>
+                <frameRect>{{0,0},{1500,1500}}</frameRect>
+            </frameRectArray>
+        </imagePuzzle>
+    </imagePuzzlePieces>
+    <textPuzzlePieces />
+    <activity>
+        <sina />
+        <expired />
+    </activity>
+</puzzle>

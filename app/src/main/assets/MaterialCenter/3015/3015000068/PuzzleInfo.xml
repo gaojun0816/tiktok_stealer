@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<puzzle>
+    <resId>3002000068</resId>
+    <version>1</version>
+    <categoryID>1009</categoryID>
+    <name>天窗</name>
+    <iconPath>thumbnail</iconPath>
+    <width>1000</width>
+    <height>1500</height>
+    <photoAmount>5</photoAmount>
+    <formatAmount>1</formatAmount>
+    <backgroundColor />
+    <backgroundImagePath />
+    <backgroundTile />
+    <backgroundType>0</backgroundType>
+    <bgBlurFilter />
+    <bgFilterMaterialId />
+    <photoPuzzlePieces>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{616,975},{348,349}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{41,975},{542,349}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{41,557},{923,388}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{423,177},{541,349}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{41,177},{349,349}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+    </photoPuzzlePieces>
+    <imagePuzzlePieces>
+        <imagePuzzle>
+            <type>0</type>
+            <imagePath>img.post</imagePath>
+            <weatherColor />
+            <frameRectArray>
+                <frameRect>{{0,0},{1000,1500}}</frameRect>
+            </frameRectArray>
+        </imagePuzzle>
+    </imagePuzzlePieces>
+    <textPuzzlePieces />
+    <activity>
+        <sina />
+        <expired />
+    </activity>
+</puzzle>

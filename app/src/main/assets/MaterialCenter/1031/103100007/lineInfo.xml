@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<line>
+    <resId>103100007</resId>
+    <version />
+    <name>FJ2</name>
+    <icoPath>thumbnail</icoPath>
+    <width>600</width>
+    <height>600</height>
+    <lineType>4</lineType>
+    <backgroundImagePath>img.thu</backgroundImagePath>
+    <resultImagePath>resultImage.thu</resultImagePath>
+    <activity>
+        <expired />
+        <sina />
+        <qzone />
+        <tencent />
+    </activity>
+</line>

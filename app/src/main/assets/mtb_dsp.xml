@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="utf-8"?><!-- @formatter:off -->
+<mtbusiness>
+    <!-- 首页icon -->
+    <mtb_base_layout ad_config_id="main_page_icon" animator="fade_in" is_main_ad="true"
+        page_id="MainActivity" position="39">
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+        <dsp name="com.meitu.business.ads.dfp.DFP">
+            <ui_type>ui_type_icon</ui_type>
+            <dfp_tw_unit_id>/196831321/MT_TW/tw_meitu_Android/tw_meitu_Android_icon</dfp_tw_unit_id>
+            <dfp_mo_unit_id>/196831321/MT_MO/mo_meitu_Android/mo_meitu_Android_icon</dfp_mo_unit_id>
+            <dfp_hk_unit_id>/196831321/MT_HK/hk_meitu_Android/hk_meitu_Android_icon</dfp_hk_unit_id>
+        </dsp>
+    </mtb_base_layout>
+
+    <!-- 首页第八格icon -->
+    <mtb_base_layout ad_config_id="main_page_eighth_icon" animator="fade_in" is_main_ad="true"
+        page_id="MainActivity" position="100096">
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+    </mtb_base_layout>
+
+    <!-- 素材中心banner -->
+    <mtb_base_layout ad_config_id="material_center_banner" animator="fade_in"
+        page_id="FragmentMaterialCategory" position="222">
+        <!-- 每个MtbBaseLayout至少得有一个Meitu dsp，如果没有特殊配置也需要在此占位 -->
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+
+        <dsp name="com.meitu.business.ads.tencent.Tencent">
+            <tencent_pos_id>6080234143189578</tencent_pos_id>
+            <tencent_app_id>215876</tencent_app_id>
+            <ui_type>ui_type_gallery</ui_type>
+        </dsp>
+    </mtb_base_layout>
+
+    <!-- 保存分享页banner -->
+    <mtb_base_layout ad_config_id="save_share_page_banner" animator="fade_in_up"
+        animator_duration="1000" page_id="SaveAndShareActivity" position="43">
+        <!-- 每个MtbBaseLayout至少得有一个Meitu dsp，如果没有特殊配置也需要在此占位 -->
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+
+        <dsp name="com.meitu.business.ads.admob.Admob">
+            <admob_unit_id>ca-app-pub-6549036500789204/8667041374</admob_unit_id>
+            <ui_type>ui_type_banner</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.core.cpm.custom.Custom">
+            <ui_type>ui_type_banner</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.tencent.Tencent">
+            <tencent_pos_id>5000311676136511</tencent_pos_id>
+            <tencent_app_id>215876</tencent_app_id>
+            <ui_type>ui_type_banner</ui_type>
+        </dsp>
+        <dsp name="com.meitu.business.ads.dfp.DFP">
+            <ui_type>ui_type_banner</ui_type>
+            <dfp_tw_unit_id>/196831321/MT_TW/tw_meitu_Android/tw_meitu_Android_saveshare</dfp_tw_unit_id>
+            <dfp_mo_unit_id>/196831321/MT_MO/mo_meitu_Android/mo_meitu_Android_saveshare</dfp_mo_unit_id>
+            <dfp_hk_unit_id>/196831321/MT_HK/hk_meitu_Android/hk_meitu_Android_saveshare</dfp_hk_unit_id>
+        </dsp>
+        <dsp name="com.meitu.business.ads.baidu.Baidu">
+            <placement_id>5462447</placement_id>
+            <app_id>c58f3664</app_id>
+            <ui_type>ui_type_banner</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.yeahmobi.Yeahmobi">
+            <placement_id>27803833</placement_id>
+            <app_id>1731</app_id>
+            <ui_type>ui_type_banner</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.baiduhw.BaiduHW">
+            <app_id>a91326101c7b13a497e7029ab57cef2f</app_id>
+            <baiduhw_pos_id>153703</baiduhw_pos_id>
+            <ui_type>ui_type_banner</ui_type>
+        </dsp>
+
+    </mtb_base_layout>
+
+    <!-- 保存分享页插屏广告 -->
+    <mtb_base_layout ad_config_id="save_share_page_interstitial" page_id="SaveAndShareActivity"
+        position="175">
+
+        <dsp name="com.meitu.business.ads.inmobi.InMobi">
+            <inmobi_pos_id>1539369016850</inmobi_pos_id>
+            <inmobi_app_id>1539320979067</inmobi_app_id>
+            <ui_type>ui_type_interstitial</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.zhangku.Zhangku">
+            <zhangku_pos_id>39610</zhangku_pos_id>
+            <zhangku_app_id>2702</zhangku_app_id>
+            <ui_type>ui_type_interstitial</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.tencent.Tencent">
+            <ui_type>ui_type_interstitial</ui_type>
+            <tencent_pos_id>2090056591746099</tencent_pos_id>
+            <tencent_app_id>215876</tencent_app_id>
+
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.meitu.Meitu">
+            <ui_type>ui_type_interstitial</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.core.cpm.custom.Custom">
+            <ui_type>ui_type_interstitial</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.baidu.Baidu">
+            <ui_type>ui_type_interstitial</ui_type>
+            <placement_id>5043811</placement_id>
+            <app_id>c58f3664</app_id>
+
+        </dsp>
+
+        <!-- 秀秀在接入商业化3.2.1版本中，添加了插屏DFP广告，香港、澳门、台湾 -->
+        <dsp name="com.meitu.business.ads.dfp.DFP">
+            <ui_type>ui_type_interstitial</ui_type>
+            <dfp_tw_unit_id>/196831321/MT_TW/tw_meitu_Android/tw_meitu_Android_saveshare_banner</dfp_tw_unit_id>
+            <dfp_hk_unit_id>/196831321/MT_HK/hk_meitu_Android/hk_meitu_Android_saveshare_banner</dfp_hk_unit_id>
+            <dfp_mo_unit_id>/196831321/MT_MO/mo_meitu_Android/mo_meitu_Android_saveshare_banner</dfp_mo_unit_id>
+        </dsp>
+
+    </mtb_base_layout>
+
+    <!-- 选择照片页banner -->
+    <mtb_base_layout ad_config_id="image_select_page_banner" animator="fade_in_down"
+        page_id="ImageFragment" position="44">
+        <!-- 每个MtbBaseLayout至少得有一个Meitu dsp，如果没有特殊配置也需要在此占位 -->
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+
+        <dsp name="com.meitu.business.ads.zhangku.Zhangku">
+            <zhangku_pos_id>40121</zhangku_pos_id>
+            <zhangku_app_id>2702</zhangku_app_id>
+            <ui_type>ui_type_gallery</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.inmobi.InMobi">
+            <inmobi_pos_id>1538187141527</inmobi_pos_id>
+            <inmobi_app_id>1539320979067</inmobi_app_id>
+            <ui_type>ui_type_gallery</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.toutiao.Toutiao">
+            <toutiao_pos_id>900950413</toutiao_pos_id>
+            <toutiao_app_id>5000950</toutiao_app_id>
+            <ui_type>ui_type_gallery</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.baidu.Baidu">
+            <placement_id>5931655</placement_id>
+            <app_id>c58f3664</app_id>
+            <ui_type>ui_type_gallery</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.admob.Admob">
+            <admob_unit_id>ca-app-pub-6549036500789204/1143774570</admob_unit_id>
+            <ui_type>ui_type_gallery</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.tencent.Tencent">
+            <tencent_pos_id>1030354555732782</tencent_pos_id>
+            <tencent_app_id>215876</tencent_app_id>
+            <ui_type>ui_type_gallery</ui_type>
+        </dsp>
+        <dsp name="com.meitu.business.ads.dfp.DFP">
+            <ui_type>ui_type_gallery</ui_type>
+            <dfp_tw_unit_id>/196831321/MT_TW/tw_meitu_Android/tw_meitu_Android_photochoose</dfp_tw_unit_id>
+            <dfp_mo_unit_id>/196831321/MT_MO/mo_meitu_Android/mo_meitu_Android_photochoose</dfp_mo_unit_id>
+            <dfp_hk_unit_id>/196831321/MT_HK/hk_meitu_Android/hk_meitu_Android_photochoose</dfp_hk_unit_id>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.yeahmobi.Yeahmobi">
+            <placement_id>52310240</placement_id>
+            <app_id>1731</app_id>
+            <ui_type>ui_type_gallery</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.baiduhw.BaiduHW">
+            <app_id>a91326101c7b13a497e7029ab57cef2f</app_id>
+            <baiduhw_pos_id>153702</baiduhw_pos_id>
+            <ui_type>ui_type_gallery</ui_type>
+        </dsp>
+
+        <!--<dsp name="com.meitu.business.ads.hongtu.Hongtu">-->
+            <!--<hongtu_pos_id>1D5BC8Q8L005277730B60000B4F46A13</hongtu_pos_id>-->
+            <!--<hongtu_app_id>app_id</hongtu_app_id>-->
+            <!--<ui_type>ui_type_gallery</ui_type>-->
+        <!--</dsp>-->
+    </mtb_base_layout>
+
+    <!-- 相册列表页banner -->
+    <mtb_base_layout ad_config_id="bucket_select_page_banner" animator="fade_in_down"
+        page_id="BucketFragment" position="100089">
+        <!-- 每个MtbBaseLayout至少得有一个Meitu dsp，如果没有特殊配置也需要在此占位 -->
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+
+        <dsp name="com.meitu.business.ads.zhangku.Zhangku">
+            <zhangku_pos_id>40123</zhangku_pos_id>
+            <zhangku_app_id>2702</zhangku_app_id>
+            <ui_type>ui_type_gallery</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.inmobi.InMobi">
+            <inmobi_pos_id>1538185292053</inmobi_pos_id>
+            <inmobi_app_id>1539320979067</inmobi_app_id>
+            <ui_type>ui_type_gallery</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.toutiao.Toutiao">
+            <toutiao_pos_id>900950548</toutiao_pos_id>
+            <toutiao_app_id>5000950</toutiao_app_id>
+            <ui_type>ui_type_gallery</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.baidu.Baidu">
+            <placement_id>5931657</placement_id>
+            <app_id>c58f3664</app_id>
+            <ui_type>ui_type_gallery</ui_type>
+        </dsp>
+
+        <dsp name="com.meitu.business.ads.tencent.Tencent">
+            <tencent_pos_id>7080550575830723</tencent_pos_id>
+            <tencent_app_id>215876</tencent_app_id>
+            <ui_type>ui_type_gallery</ui_type>
+        </dsp>
+    </mtb_base_layout>
+
+    <!-- 美化页右下角icon -->
+    <mtb_base_layout ad_config_id="xiu_meihua_mainpage" animator="fade_in" page_id="IMGMainActivity"
+        position="200344">
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+    </mtb_base_layout>
+
+    <!-- 美容页右下角icon -->
+    <mtb_base_layout ad_config_id="xiu_meirong_mainpage" animator="fade_in"
+        page_id="BeautyMainActivity" position="200342">
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+    </mtb_base_layout>
+
+    <!-- 人像美容-眼睛放大icon -->
+    <mtb_base_layout ad_config_id="portrait_beauty_eye" animator="fade_in" page_id="xiu_mr_enlarger"
+        position="200356">
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+    </mtb_base_layout>
+
+    <!-- 人像美容-去皱icon -->
+    <mtb_base_layout ad_config_id="portrait_beauty_wrinkle" animator="fade_in"
+        page_id="xiu_mr_antiwrinkle" position="200358">
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+    </mtb_base_layout>
+
+    <!-- 首页icon第六格 -->
+    <mtb_base_layout ad_config_id="main_page_sixth_icon" animator="fade_in" is_main_ad="true"
+        page_id="MainActivity" position="200360">
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+    </mtb_base_layout>
+
+    <!-- 人像美容-去黑眼圈icon -->
+    <mtb_base_layout ad_config_id="portrait_beauty_black_rim" animator="fade_in"
+        page_id="xiu_mr_darkcircle" position="200354">
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+    </mtb_base_layout>
+
+    <!-- 人像美容-一键美颜icon -->
+    <mtb_base_layout ad_config_id="portrait_beauty_beauty" animator="fade_in"
+        page_id="xiu_mr_retouch" position="200346">
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+    </mtb_base_layout>
+
+    <!-- 人像美容-肤色美白icon -->
+    <mtb_base_layout ad_config_id="portrait_beauty_skin_white" animator="fade_in"
+        page_id="xiu_mr_tone" position="200348">
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+    </mtb_base_layout>
+
+    <!-- 人像美容-祛斑祛痘icon -->
+    <mtb_base_layout ad_config_id="portrait_beauty_acne" animator="fade_in" page_id="xiu_mr_acne"
+        position="200350">
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+    </mtb_base_layout>
+
+    <!-- 人像美容-磨皮icon -->
+    <mtb_base_layout ad_config_id="portrait_beauty_grind" animator="fade_in" page_id="xiu_mr_smooth"
+        position="200352">
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+    </mtb_base_layout>
+
+    <!-- 首页背景-软性 -->
+    <mtb_base_layout ad_config_id="main_background" animator="fade_in" is_main_ad="true"
+        page_id="xiu_homepage" position="53">
+        <dsp name="com.meitu.business.ads.meitu.Meitu" />
+    </mtb_base_layout>
+</mtbusiness>

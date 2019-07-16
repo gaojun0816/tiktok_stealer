@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Action</key>
+		<integer>0</integer>
+		<key>FacePart</key>
+		<array>
+			<dict>
+				<key>ControlPosition</key>
+				<string>0,1</string>
+				<key>FacemeshParameters</key>
+				<string>0.3;</string>
+				<key>FacemeshType</key>
+				<integer>2102</integer>
+				<key>LiftControlType</key>
+				<integer>1</integer>
+				<key>Type</key>
+				<string>Facelift</string>
+				<key>ValueRange</key>
+				<string>0.0,0.3</string>
+			</dict>
+
+			<dict>
+				<key>ControlPosition</key>
+				<string>0</string>
+				<key>FacemeshParameters</key>
+				<string>0.10,0.20,0.00,0.00,0.00;</string>
+				<key>FacemeshType</key>
+				<integer>2110</integer>
+				<key>LiftControlType</key>
+				<integer>1</integer>
+				<key>Type</key>
+				<string>Facelift</string>
+				<key>ValueRange</key>
+				<string>0.0,0.10</string>
+			</dict>
+			<dict>
+				<key>ControlPosition</key>
+				<string>0</string>
+				<key>FacemeshParameters</key>
+				<string>0.7,0.00,0.00,0.49,0.36,0.20,0.00,0.00,0.00,0.06,0.04,0.06,0.00;</string>
+				<key>FacemeshType</key>
+				<integer>2195</integer>
+				<key>LiftControlType</key>
+				<integer>1</integer>
+				<key>Type</key>
+				<string>Facelift</string>
+				<key>ValueRange</key>
+				<string>0.0,0.7</string>
+			</dict>
+		</array>
+		<key>ID</key>
+		<integer>300005</integer>
+		<key>Name</key>
+		<string>pig</string>
+		<key>Sound</key>
+		<integer>0</integer>
+	</dict>
+</array>
+</plist>

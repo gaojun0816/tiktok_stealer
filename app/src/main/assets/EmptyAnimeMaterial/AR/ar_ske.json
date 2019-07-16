@@ -1,0 +1,1 @@
+{"frameRate":24,"version":"5.0","isGlobal":0,"name":"ar","armature":[{"defaultActions":[{"gotoAndPlay":""}],"aabb":{"x":0,"y":0,"width":0,"height":0},"bone":[{"transform":{},"name":"root"}],"skin":[],"frameRate":24,"slot":[],"type":"Armature","animation":[],"name":"ar","ik":[]}]}

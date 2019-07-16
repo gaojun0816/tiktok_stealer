@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<puzzle>
+    <resId>3005903000</resId>
+    <version>1</version>
+    <name>自由拼图模板3</name>
+    <iconPath>thumbnail.post</iconPath>
+    <width>1000</width>
+    <height>1500</height>
+    <!-- 图片的缩放形式： 0：居中适配； 1：宽度固定，长度自适应，超过视图高度可上下滑动-->
+    <scaleType>0</scaleType>
+    <photoAmount>3</photoAmount>
+    <formatAmount>1</formatAmount>
+    <backgroundColor>#fffffffFF</backgroundColor>
+    <backgroundImagePath />
+    <backgroundTile />
+
+    <puzzlePieces>
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,0},{1000,1500}}</frameRect>
+            </frameRectArray>
+            <matrixTransformContentByTouch>true</matrixTransformContentByTouch>
+            <confinedInCell>false</confinedInCell>
+            <contentMode>1</contentMode>
+            <photoIndex>0</photoIndex>
+            <rotate>-15</rotate>
+            <scaleRatio>0.4</scaleRatio>
+            <centerPointHorizontalBias>0</centerPointHorizontalBias>
+            <centerPointVerticalBias>-0.2</centerPointVerticalBias>
+        </photoPuzzle>
+
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,0},{1000,1500}}</frameRect>
+            </frameRectArray>
+            <matrixTransformContentByTouch>true</matrixTransformContentByTouch>
+            <confinedInCell>false</confinedInCell>
+            <contentMode>1</contentMode>
+            <photoIndex>1</photoIndex>
+            <rotate>-15</rotate>
+            <scaleRatio>0.4</scaleRatio>
+            <centerPointHorizontalBias>-0.25</centerPointHorizontalBias>
+            <centerPointVerticalBias>0.25</centerPointVerticalBias>
+        </photoPuzzle>
+
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,0},{1000,1500}}</frameRect>
+            </frameRectArray>
+            <matrixTransformContentByTouch>true</matrixTransformContentByTouch>
+            <confinedInCell>false</confinedInCell>
+            <contentMode>1</contentMode>
+            <photoIndex>2</photoIndex>
+            <rotate>15</rotate>
+            <scaleRatio>0.4</scaleRatio>
+            <centerPointHorizontalBias>0.25</centerPointHorizontalBias>
+            <centerPointVerticalBias>0.25</centerPointVerticalBias>
+        </photoPuzzle>
+    </puzzlePieces>
+</puzzle>

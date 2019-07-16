@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<puzzle>
+    <resId>3002000077</resId>
+    <version>1</version>
+    <categoryID>1009</categoryID>
+    <name>Today</name>
+    <iconPath>thumbnail</iconPath>
+    <width>1000</width>
+    <height>1500</height>
+    <photoAmount>4</photoAmount>
+    <formatAmount>1</formatAmount>
+    <backgroundColor>#ffffffFF</backgroundColor>
+    <backgroundImagePath />
+    <backgroundTile />
+    <backgroundType>0</backgroundType>
+    <bgBlurFilter />
+    <bgFilterMaterialId />
+    <photoPuzzlePieces>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{505,577},{437,438}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{58,577},{438,438}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{505,131},{437,438}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{58,131},{438,438}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+    </photoPuzzlePieces>
+    <imagePuzzlePieces>
+        <imagePuzzle>
+            <type>0</type>
+            <imagePath>img.post</imagePath>
+            <weatherColor />
+            <frameRectArray>
+                <frameRect>{{0,0},{1000,1500}}</frameRect>
+            </frameRectArray>
+        </imagePuzzle>
+    </imagePuzzlePieces>
+    <textPuzzlePieces />
+    <activity>
+        <sina />
+        <expired />
+    </activity>
+</puzzle>

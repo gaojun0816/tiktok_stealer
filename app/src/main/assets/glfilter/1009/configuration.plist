@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>DrawArray</key>
+		<array>
+			<dict>
+				<key>stepIndex</key>
+				<string>1</string>
+				<key>filterID</key>
+				<string>1009</string>
+				<key>inputArray</key>
+				<array>
+					<dict>
+						<key>type</key>
+						<string>0</string>
+						<key>texture</key>
+						<string></string>
+						<key>matchInputID</key>
+						<string>0</string>
+					</dict>
+					<dict>
+                    	<key>type</key>
+                    	<string>8</string>
+                    	<key>texture</key>
+                    	<string></string>
+                    	<key>matchInputID</key>
+                    	<string>1</string>
+                    </dict>
+				</array>
+				<key>uniformValueArray</key>
+				<array>
+					<dict>
+						<key>uniformType</key>
+						<string>1</string>
+						<key>uniformName</key>
+						<string>skinAlpha</string>
+						<key>uniformValue</key>
+						<string>0.59</string>
+					</dict>
+					<dict>
+						<key>uniformType</key>
+						<string>1</string>
+						<key>uniformName</key>
+						<string>whiteAlpha</string>
+						<key>uniformValue</key>
+						<string>0.59</string>
+					</dict>
+					<dict>
+                        <key>uniformType</key>
+                        <string>1</string>
+                        <key>uniformName</key>
+                        <string>fuseAlpha</string>
+                        <key>uniformValue</key>
+                        <string>0.0</string>
+                    </dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

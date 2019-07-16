@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>CtrlType</key>
+		<string>1</string>
+		<key>BackGround</key>
+		<string>background.plist</string>
+		<key>Filter</key>
+		<string>filter</string>
+
+		<key>TipTextCN</key>
+		<string>横屏拍摄试试</string>
+		<key>TipTextTW</key>
+		<string>橫屏拍攝試試</string>
+		<key>TipTextEN</key>
+		<string>High quality in landscape mode</string>
+		<key>TipTextIN</key>
+		<string>Mengambil video berkualitas tinggi dalam mode lanskap</string>
+		<key>TipTextVI</key>
+		<string>Quay phim chất lượng cao trong chế độ nằm ngang</string>
+		<key>TipTextTH</key>
+		<string>ถ่ายภาพยนตร์คุณภาพสูงในโหมดแนวนอน</string>
+		<key>TipTextHI</key>
+        <string>लैंडस्केप मोड आज़माएं</string>
+        <key>TipTextJA</key>
+        <string>横向きモードを試す</string>
+        <key>TipTextKO</key>
+        <string>가로 모드 사용</string>
+        <key>TipTextBO</key>
+        <string>བརྙན་ཤེལ་འཕྲེད་པར་ལེན་པར་ཚོད་ལྟ</string>
+	</dict>
+</array>
+</plist>

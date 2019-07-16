@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<textBubble>
+    <resId>10119001</resId>
+    <version>1</version>
+    <name>xiaoe-01</name>
+    <iconPath>thumbnail.mate</iconPath>
+    <width>600</width>
+    <height>150</height>
+    <backgroundImagePath>bg.thu</backgroundImagePath>
+    <mirrorReverse>1</mirrorReverse>
+    <imagePieceArray />
+    <textPieceArray>
+        <textPiece>
+            <type>0</type>
+            <text>看这里！</text>
+            <format />
+            <language />
+            <align>2</align>
+            <caseString>0</caseString>
+            <editable>true</editable>
+            <color>#ffffffFF</color>
+            <isBold>false</isBold>
+            <showShadow>true</showShadow>
+            <showPinyin />
+            <shadowOffset>{1.000000,1.000000}</shadowOffset>
+            <shadowColor>#00000066</shadowColor>
+            <frameRect>{{0,55},{445,75}}</frameRect>
+            <isVerticalText>false</isVerticalText>
+            <verticalAlign>1</verticalAlign>
+            <maxTextHeight>70</maxTextHeight>
+            <minTextHeight>0</minTextHeight>
+        </textPiece>
+    </textPieceArray>
+    <activity>
+        <expired />
+        <sina />
+        <qzone />
+        <tencent />
+    </activity>
+</textBubble>

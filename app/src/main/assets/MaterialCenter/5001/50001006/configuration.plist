@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>AR</key>
+		<string>ar</string>
+		<key>CtrlType</key>
+		<string>1</string>
+		<key>ColorValue</key>
+		<string>0.5</string>
+		<key>ThinFace</key>
+		<string>0.8</string>
+		<key>Chin</key>
+		<string>0.8</string>
+		<key>SmallFace</key>
+		<string>0.8</string>
+		<key>BigEyes</key>
+		<string>0.8</string>
+		<key>ThinNose</key>
+		<string>0.8</string>
+		<key>MouthShape</key>
+		<string>0.8</string>
+		<key>Forehead</key>
+		<string>0.8</string>
+		<key>Cheekbone</key>
+		<string>0.8</string>
+	</dict>
+</array>
+</plist>

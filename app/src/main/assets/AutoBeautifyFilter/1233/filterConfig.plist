@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ID</key>
+	<integer>1233</integer>
+	<key>darkDict</key>
+	<dict>
+		<key>DarkBlendmaterials</key>
+		<string>A13.jpg</string>
+		<key>DarkBlendstyle</key>
+		<string>PSMultiply100.png</string>
+		<key>DarkBlendalpha</key>
+		<string>1.0</string>
+		<key>DarkBlendstate</key>
+		<integer>0</integer>
+		<key>DarkAfter</key>
+		<integer>0</integer>
+	</dict>
+	<key>onlineDict</key>
+	<array>
+		<dict>
+			<key>BlendStyle</key>
+			<integer>1</integer>
+			<key>VSPath</key>
+			<string>Shader_Vertex.mtsl2</string>
+			<key>FSPath</key>
+			<string>Shader_PSBlendStyle1.mtsl2</string>
+			<key>Blendalpha</key>
+			<string>1.0</string>
+			<key>MaskPath</key>
+			<array>
+				<string>1233.png</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

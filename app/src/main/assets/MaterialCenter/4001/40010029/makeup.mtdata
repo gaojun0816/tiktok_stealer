@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ID</key>
+		<integer>40010028</integer>
+		<key>DefaultAlpha</key>
+		<integer>65</integer>
+		<key>MouthTypes</key>
+		<array>
+			<dict>
+				<key>DefaultAlpha</key>
+				<integer>100</integer>
+				<key>FacePart</key>
+				<array>
+					<dict>
+					<key>GlossAlpha</key>
+					<integer>100</integer>
+					<key>LightAlpha</key>
+					<integer>100</integer>
+					<key>LipstickMode</key>
+					<integer>6</integer>
+					<key>ORGBA</key>
+					<string>100,200,45,41,255</string>
+					<key>Type</key>
+					<string>MPLIPSTICK</string>
+				</dict>
+				<dict>
+						<key>Type</key>
+						<string>S</string>
+						<key>LocateMethod</key>
+						<integer>2</integer>
+						<key>Path</key>
+						<string>sc.png</string>
+						<key>ORGBA</key>
+						<string>100,0,0,0,255</string>
+						<key>Rectangle</key>
+						<string>440,818,148,82</string>
+						<key>FilterType</key>
+						<integer>8</integer>
+						<key>MUType</key>
+						<integer>1</integer>
+						<key>Operation</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+				<key>PartName</key>
+				<string>Glossy</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

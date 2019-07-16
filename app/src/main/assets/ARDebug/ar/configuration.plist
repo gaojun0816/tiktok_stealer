@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FacePart</key>
+		<array>
+		    <dict>
+				<key>Type</key><string>Debug</string>
+				
+				<!-- 显示xyz坐标轴 slam、arkit这些数据 -->
+				<key>ShowGyroInfo</key><string>0</string>
+				
+				<!-- 分割的类型 -1是不需要 0 1 是身体分割 3 4是人脸分割 5是天空分割 7是头发分割-->
+				<key>SegmentType</key><string>-1</string>
+		
+				<!-- 人脸信息 -->
+				<key>FaceInfo</key> 
+				<dict> 
+					<!-- 总体的开关 -->
+					<key>ShowFaceInfo</key><string>1</string> 
+					<!-- 显示人脸点 -->
+					<key>ShowFacePoint</key><string>1</string>
+					<!-- 显示人脸框 -->
+					<key>ShowFaceRect</key><string>1</string>
+					<!-- 显示人脸ID -->
+					<key>ShowFaceID</key><string>1</string>
+					<!-- 显示人脸索引 -->
+					<key>ShowFaceIndex</key><string>1</string>
+					<!-- 显示性别 -->
+					<key>ShowFaceGender</key><string>1</string>
+					<!-- 显示年龄 -->
+					<key>ShowFaceAge</key><string>1</string>
+					<!-- 显示人种 -->
+					<key>ShowFaceRace</key><string>1</string>
+					<!-- 人脸点类型 -->
+					<key>ShowFacePointType</key><string>118</string>
+					<!-- 人脸点的颜色 -->
+					<key>FacePointColor</key><string>255,0,0</string>
+					<!-- 人脸框的颜色 -->
+					<key>FaceRectColor</key><string>0,255,0</string>
+					<!-- 字的颜色 -->
+					<key>FaceFontColor</key><string>0.0,0.0,255.0,255.0</string>
+				</dict> 
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 当前程序的渠道id -->
+    <string name="channel_id">setup</string>
+    <!-- 是否需要首页广告  -->
+    <bool name="is_needed_homepage_ad">true</bool>
+    <!-- push间隔时间，以分钟为单位 -->
+    <string name="push_time_distance">1</string>
+    <!--  商业广告环境 @see PredefinedServer -->
+    <bool name="mtb_ad_sdk_version">5</bool>
+    <!-- 地区 -->
+    <string name="area"></string>
+    <!-- 包括SDK环境，云美化环境，OPM组件通用的环境配置 0、正式 1、测试 2、beta-->
+    <bool name="user_environment">1</bool>
+    <!-- 区分社区版本和工具版本 -->
+    <bool name="is_community">true</bool>
+    <!-- 配置想要强制命中的ABTesting code, 以 1,2,3 ... (注意逗号要英文半角) 表示所有希望被强制命中的ab code -->
+    <string name="force_hit_ab_codes"></string>
+    <bool name="isForDeveloper">true</bool>
+    <bool name="cloud_beautify_dev">false</bool>
+    <bool name="is_prepared_for_tester">true</bool>
+    <!-- 判断当前环境是否为普通还是内部人员 -->
+    <bool name="is_user">false</bool>
+    <!-- 相机预览是否采用高分辨率 -->
+    <bool name="isCameraHighPreviewSize">true</bool>
+    <bool name="is_gdpr">false</bool>
+</resources>

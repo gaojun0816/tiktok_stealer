@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 标记是否是公测版 -->
+    <string name="is_beta">false</string>
+    <!-- 当前程序的渠道id -->
+    <string name="channel_id">setup</string>
+    <!-- 标记是否需要素材中心广告 -->
+    <bool name="is_needed_material_ad">true</bool>
+    <!-- 标记是否需要检查更新 -->
+    <bool name="is_needed_check_update">true</bool>
+    <!-- 是否需要首页广告  -->
+    <bool name="is_needed_homepage_ad">true</bool>
+    <!-- 是否需要首页第二屏  -->
+    <bool name="is_needed_homesecondpage">true</bool>
+    <!-- 素材中url后缀,如包360的值 "_360" -->
+    <string name="material_url_suffix"></string>
+    <!-- 是否需要360手机助手省流量更新更新，代码默认为false-->
+    <bool name="is_need_update_with_360">true</bool>
+    <string name="is_test_environment">false</string>
+</resources>

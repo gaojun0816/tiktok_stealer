@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Filter</key>
+		<string>filter</string>
+
+		<key>TipTextCN</key>
+                        		<string>切换摄像头试试</string>
+                        		<key>TipTextTW</key>
+                        		<string>切換鏡頭試試看</string>
+                        		<key>TipTextEN</key>
+                        		<string>Try switching camera</string>
+                        		<key>TipTextIN</key>
+                        		<string>Coba mengganti kamera</string>
+                        		<key>TipTextVI</key>
+                        		<string>Thử chuyển đổi camera</string>
+                        		<key>TipTextTH</key>
+                        		<string>ลองสลับกล้อง</string>
+                        		<key>TipTextHI</key>
+                                <string>कैमरा बदलकर देखें</string>
+                                <key>TipTextJA</key>
+                                <string>カメラを変更</string>
+                                <key>TipTextKO</key>
+                                <string>카메라 전환</string>
+                                <key>TipTextBO</key>
+                                <string>བརྙན་མིག་བརྗེ་དེ་ཚོར་ལྟ་སྣང་བ།</string>
+	</dict>
+</array>
+</plist>

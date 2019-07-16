@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>JS测试</title>
+    <script>
+        function send(url) {
+            let iframe = document.createElement('iframe');
+            let div = document.createElement('div');
+            iframe.src = url;
+            div.style.display = 'none';
+            div.appendChild(iframe);
+            document.body.appendChild(div)
+         }
+
+         function showPushDialog(){
+            send('meiyin://requestPush');
+         }
+
+    </script>
+</head>
+<body>
+    <button type="button" style="height:90px; width:300px; font-size:40px" onclick="showPushDialog()">开启Push</button>
+</body>
+</html>

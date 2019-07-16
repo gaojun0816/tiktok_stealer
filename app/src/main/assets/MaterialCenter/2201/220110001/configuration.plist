@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AnimationID</key>
+	<integer>0</integer>
+	<key>TextInfo</key>
+	<dict>
+		<key>TextAlignment</key>
+		<integer>0</integer>
+		<key>LineDistance</key>
+		<string>0</string>
+		<key>WordDistance</key>
+		<string>0</string>
+		<key>ExpandImage</key>
+		<integer>1</integer>
+		<key>TempleteType</key>
+		<integer>2</integer>
+		<key>Typeface</key>
+		<string></string>
+		<key>Animation</key>
+		<string>MvAnimationPrinter</string>
+		<key>TextArray</key>
+		<array>
+			<dict>
+				<key>Color</key>
+				<string>255,255,255</string>
+			</dict>
+		</array>
+		<key>Materials</key>
+		<array>
+			<dict>
+				<key>Material</key>
+				<string>printer_underline.png</string>
+			</dict>
+		</array>
+	</dict>
+	<key>GroupInfo</key>
+	<dict>
+		<key>GroupLeftTopXY</key>
+		<string>{0.037,0.5}</string>
+	</dict>
+</dict>
+</plist>

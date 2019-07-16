@@ -1,0 +1,2447 @@
+{
+  "categories": [
+    {
+      // 海报边框
+      "category_id": 1009,
+      "sub_categories": [
+        {
+          "sub_category_id": 1009100,
+          "items": [
+            {
+              "material_id": "10099000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 简单边框
+      "category_id": 1001,
+      "sub_categories": [
+        {
+          "sub_category_id": 1001100,
+          "items": [
+            {
+              "material_id": "10019000"
+            },
+            {
+              "material_id": "10019015"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 炫彩边框
+      "category_id": 1002,
+      "sub_categories": [
+        {
+          "sub_category_id": 1002100,
+          "items": [
+            {
+              "material_id": "10029000"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 会话气泡
+      "category_id": 1011,
+      "sub_categories": [
+        {
+          "sub_category_id": 1011100,
+          "items": [
+            {
+              "material_id": "10119001"
+            },
+            {
+              "material_id": "10119005"
+            },
+            {
+              "material_id": "10119008"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 贴纸
+      "category_id": 1012,
+      "sub_categories": [
+        {
+          "sub_category_id": 1012100,
+          "items": [
+            {
+              "material_id": "10129001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 贴纸效果
+      "category_id": 1015,
+      "sub_categories": [
+        {
+          "sub_category_id": 1015100,
+          "items": [
+            {
+              "material_id": "10151001000"
+            },
+            {
+              "material_id": "10151001001"
+            },
+            {
+              "material_id": "10151001002"
+            },
+            {
+              "material_id": "10151001003"
+            },
+            {
+              "material_id": "10151001004"
+            },
+            {
+              "material_id": "10151001005"
+            },
+            {
+              "material_id": "10151001006"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 水印
+      "category_id": 1013,
+      "sub_categories": [
+        {
+          "sub_category_id": 1013100,
+          "items": [
+            {
+              "material_id": "10139000"
+              // 新版本还有的字段
+              //            "cnname": "卢浮魅影",
+              //            "twname": "盧浮魅影",
+              //            "enname": "Louvre"
+            },
+            {
+              "material_id": "10139995"
+            },
+            {
+              "material_id": "10139996"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 个人logo套装
+      "category_id": 2401,
+      "sub_categories": [
+        {
+          "sub_category_id": 2401100,
+          "items": [
+            {
+              "material_id": "24010004"
+            },
+            {
+              "material_id": "24010003"
+            },
+            {
+              "material_id": "24010000"
+            },
+            {
+              "material_id": "24010002"
+            },
+            {
+              "material_id": "24010005"
+            },
+            {
+              "material_id": "24010001"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 马赛克
+      "category_id": 1007,
+      "sub_categories": [
+        {
+          "sub_category_id": 1007100,
+          "cnname": "马赛克",
+          "twname": "馬賽克",
+          "enname": "Mosaic",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 10079012
+            },
+            {
+              "material_id": 10079000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 文字视频模板
+      "category_id": 2201,
+      "sub_categories": [
+        {
+          "sub_category_id": 2201000,
+          "cnname": "templete",
+          "twname": "templete",
+          "enname": "templete",
+          "items": [
+            {
+              "material_id": 220110001
+            },
+            {
+              "material_id": 220110999
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 文字视频背景图
+      "category_id": 2203,
+      "sub_categories": [
+        {
+          "sub_category_id": 2203000,
+          "cnname": "background",
+          "twname": "background",
+          "enname": "background",
+          "items": [
+            {
+              "material_id": 220310001
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 增高塑形-线条
+      "category_id": 1031,
+      "sub_categories": [
+        {
+          "sub_category_id": 1031100,
+          "sort": 99999999,
+          "items": [
+            {
+              "material_id": "103100003",
+              "sort": 99999998
+            },
+            {
+              "material_id": "103100007",
+              "sort": 99999997
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      // 魔幻笔
+      "category_id": 1014,
+      "sub_categories": [
+        {
+          "sub_category_id": 1014100,
+          "cnname": "魔幻笔",
+          "twname": "魔幻筆",
+          "enname": "Brush",
+          "rgb": "#F0B6C8",
+          "items": [
+            {
+              "material_id": 10149000,
+              "cnname": "自定义文字",
+              "twname": "自定义文字",
+              "enname": "Custom text"
+            },
+            {
+              "material_id": 10149003,
+              "cnname": "烟花棒",
+              "twname": "煙花棒",
+              "enname": "Sparkler"
+            },
+            {
+              "material_id": 10149001,
+              "cnname": "签字笔",
+              "twname": "簽字筆",
+              "enname": "Brush"
+            },
+            {
+              "material_id": 10149004,
+              "cnname": "炫光",
+              "twname": "炫光",
+              "enname": "Dazzle"
+            },
+            {
+              "material_id": 10149020,
+              "cnname": "描边笔",
+              "twname": "描邊筆",
+              "enname": "Stroke"
+            },
+            {
+              "material_id": 10149019,
+              "cnname": "橡皮擦",
+              "twname": "橡皮擦",
+              "enname": "Eraser"
+            },
+            {
+              "material_id": 10149026,
+              "cnname": "爱心笔",
+              "twname": "愛心筆",
+              "enname": "Love"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 魔法照片
+      "category_id": 1018,
+      "sub_categories": [
+        {
+          "sub_category_id": 1018000,
+          "items": [
+            {
+              "material_id": 101800190000,
+              "has_music": 0,
+              "music_id": 0
+            }
+          ]
+        }
+      ]
+    },
+    {
+      //相机音乐
+      "category_id": 2003,
+      "sub_categories": [
+        {
+          "sub_category_id": 2003000,
+          "cnname": "音乐",
+          "twname": "音樂",
+          "enname": "Music",
+          "items": [
+            {
+              "material_id": 20039000,
+              "cnname": "无",
+              "twname": "無",
+              "enname": "none"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      //社区音乐
+      "category_id": 2202,
+      "sub_categories": [
+        {
+          "sub_category_id": 2202000,
+          "cnname": "音乐",
+          "twname": "音樂",
+          "enname": "Music",
+          "items": [
+            {
+              "material_id": 22029000,
+              "cnname": "无",
+              "twname": "無",
+              "enname": "none"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      //AR贴纸
+      "category_id": 2001,
+      "sub_categories": [
+        {
+          "sub_category_id": 2001000,
+          "cnname": "AR贴纸",
+          "twname": "AR贴纸",
+          "enname": "AR贴纸",
+          "items": [
+            {
+              "material_id": 200190000,
+              "cnname": "无",
+              "twname": "無",
+              "enname": "none"
+            },
+            {
+              "material_id": 200199999,
+              "cnname": "内置",
+              "twname": "内置",
+              "enname": "builtin"
+            },
+            {
+              "material_id": 200199998,
+              "cnname": "内置滤镜脸型",
+              "twname": "内置滤镜脸型",
+              "enname": "builtinFilterFace"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      //广告AR
+      "category_id": 2011,
+      "sub_categories": [
+        {
+          "sub_category_id": 2011000,
+          "cnname": "AR贴纸",
+          "twname": "AR贴纸",
+          "enname": "AR贴纸",
+          "items": [
+            {
+              "material_id": 201190000,
+              "cnname": "无",
+              "twname": "無",
+              "enname": "none"
+            }
+          ]
+        }
+      ]
+    },
+    //todo 增加美化内置滤镜
+    {
+      // 相机滤镜-M
+      "category_id": 2007,
+      "sub_categories": [
+        {
+          "sub_category_id": 2007601,
+          "cnname": "原图",
+          "twname": "原圖",
+          "enname": "Original",
+          "rgb": "#2C2E30",
+          "sort": 99999999,
+          "items": [
+            {
+              "material_id": 2007601000,
+              "cnname": "原图",
+              "twname": "原圖",
+              "enname": "Original",
+              "rgb": "#2C2E30"
+            }
+          ]
+        },
+        {
+          "sub_category_id": 2007605,
+          "cnname": "自然",
+          "twname": "自然",
+          "enname": "Natural",
+          "rgb": "#f3e5d5",
+          "sort": 99999998,
+          "items": [
+            {
+              "material_id": 2007605116,
+              "cnname": "自然",
+              "twname": "自然",
+              "enname": "Natural",
+              "code_name": "M1",
+              "rgb": "#f3e5d5"
+            },
+            {
+              "material_id": 20076051068,
+              "cnname": "小美好",
+              "twname": "小美好",
+              "enname": "Delight",
+              "code_name": "MH1",
+              "rgb": "#f3e5d5"
+            },
+            {
+              "material_id": 2007605477,
+              "cnname": "小森林",
+              "twname": "小森林",
+              "enname": "Jungle",
+              "code_name": "M2",
+              "rgb": "#f3e5d5"
+            },
+            {
+              "material_id": 20076051317,
+              "cnname": "自然",
+              "twname": "自然",
+              "enname": "Natural",
+              "code_name": "M3",
+              "rgb": "#f3e5d5"
+            },
+            {
+              "material_id": 20076051233,
+              "cnname": "自然",
+              "twname": "自然",
+              "enname": "Natural",
+              "code_name": "M4",
+              "rgb": "#f3e5d5"
+            },
+            {
+              "material_id": 20076051675,
+              "cnname": "白兔糖",
+              "twname": "白兔糖",
+              "enname": "Bunny Drop",
+              "support_scope": 1,
+              "code_name": "MH2",
+              "rgb": "#f3e5d5"
+            }
+          ]
+        },
+        {
+          "sub_category_id": 2007606,
+          "cnname": "质感",
+          "twname": "質感",
+          "enname": "Classy",
+          "rgb": "#184069",
+          "items": [
+            {
+              "material_id": 20076061608,
+              "cnname": "质感",
+              "twname": "質感",
+              "enname": "Classy",
+              "code_name": "ME1",
+              "rgb": "#184069"
+            },
+            {
+              "material_id": 20076061589,
+              "cnname": "质感",
+              "twname": "質感",
+              "enname": "Classy",
+              "code_name": "ME2",
+              "rgb": "#184069"
+            },
+            {
+              "material_id": 20076061605,
+              "cnname": "质感",
+              "twname": "質感",
+              "enname": "Classy",
+              "code_name": "ME3",
+              "rgb": "#184069"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 相机滤镜-T
+      "category_id": 2008,
+      "sub_categories": [
+        {
+          "sub_category_id": 2008607,
+          "cnname": "食欲",
+          "twname": "食慾",
+          "enname": "Gourmet",
+          "rgb": "#f9b32d",
+          "items": [
+            {
+              "material_id": 2008607977,
+              "cnname": "料理家",
+              "twname": "料理家",
+              "enname": "Chef",
+              "code_name": "T18",
+              "rgb": "#f9b32d"
+            },
+            {
+              "material_id": 2008607302,
+              "cnname": "深夜食堂",
+              "twname": "深夜食堂",
+              "enname": "Cozy",
+              "code_name": "T19",
+              "rgb": "#f9b32d"
+            },
+            {
+              "material_id": 2008607571,
+              "cnname": "橘子汽水",
+              "twname": "橘子汽水",
+              "enname": "Orange",
+              "code_name": "T20",
+              "rgb": "#f9b32d"
+            },
+            {
+              "material_id": 2008607973,
+              "cnname": "粉花面包",
+              "twname": "粉花麵包",
+              "enname": "Bakery",
+              "code_name": "T21",
+              "rgb": "#f9b32d"
+            },
+            {
+              "material_id": 20086071585,
+              "cnname": "食欲",
+              "twname": "食慾",
+              "enname": "Gourmet",
+              "code_name": "TF1",
+              "support_scope": 1,
+              "rgb": "#f9b32d"
+            },
+            {
+              "material_id": 20086071587,
+              "cnname": "食欲",
+              "twname": "食慾",
+              "enname": "Gourmet",
+              "code_name": "TF2",
+              "support_scope": 1,
+              "rgb": "#f9b32d"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 相机滤镜-V
+      "category_id": 2009,
+      "sub_categories": [
+        {
+          "sub_category_id": 2009608,
+          "cnname": "电影",
+          "twname": "電影",
+          "enname": "Movie",
+          "rgb": "#5c7982",
+          "items": [
+            {
+              "material_id": 2009608530,
+              "cnname": "中环码头",
+              "twname": "中環碼頭",
+              "enname": "Pier",
+              "code_name": "V1",
+              "rgb": "#5c7982"
+            },
+            {
+              "material_id": 20096081095,
+              "enname": "B&W",
+              "cnname": "黑白",
+              "twname": "黑白",
+              "code_name": "V2",
+              "rgb": "#5c7982"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 相机滤镜-S
+      "category_id": 2010,
+      "sub_categories": [
+        {
+          "sub_category_id": 2010999,
+          "cnname": "原图",
+          "twname": "原圖",
+          "enname": "Original",
+          "rgb": "#2C2E30",
+          "items": [
+            {
+              "material_id": 2010999000,
+              "cnname": "原图",
+              "twname": "原圖",
+              "enname": "Original",
+              "rgb": "#2C2E30"
+            }
+          ]
+        },
+        {
+          "sub_category_id": 2010604,
+          "cnname": "美术馆",
+          "twname": "美術館",
+          "enname": "Gallery",
+          "rgb": "#2C2E30",
+          "items": [
+            {
+              "material_id": 2010604143,
+              "cnname": "蜡笔",
+              "twname": "蠟筆",
+              "enname": "Crayon",
+              "code_name": "SA1",
+              "support_scope": 1,
+              "rgb": "#2C2E30"
+            },
+            {
+              "material_id": 2010604141,
+              "cnname": "写生素描",
+              "twname": "寫生素描",
+              "enname": "Sketch",
+              "code_name": "SA2",
+              "support_scope": 1,
+              "rgb": "#2C2E30"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 相机滤镜
+      "category_id": 2002,
+      "sub_categories": [
+        {
+          "sub_category_id": 2002105,
+          "cnname": "电影",
+          "twname": "電影",
+          "enname": "Movies",
+          // "rgb": "#F0B6C8",
+          "items": [
+            {
+              "material_id": 2002105000,
+              "cnname": "原图",
+              "twname": "原圖",
+              "enname": "Original",
+              "rgb": ""
+            },
+            {
+              "material_id": 2002105991,
+              "cnname": "亚特兰",
+              "twname": "亞特蘭",
+              "enname": "Atlas",
+              "rgb": "#578FFF"
+            },
+            {
+              "material_id": 2002105993,
+              "cnname": "利莫里亚",
+              "twname": "利莫里亞",
+              "enname": "Lemuria",
+              "rgb": "#578FFF"
+            },
+            {
+              "material_id": 2002105987,
+              "cnname": "庞贝城",
+              "twname": "龐貝城",
+              "enname": "Pompeii",
+              "rgb": "#578FFF"
+            },
+            {
+              "material_id": 2002105994,
+              "cnname": "丘比特",
+              "twname": "邱比特",
+              "enname": "Cupid",
+              "rgb": "#578FFF"
+            }
+          ]
+        },
+        {
+          "sub_category_id": 2002100,
+          "cnname": "人像",
+          "twname": "人像",
+          "enname": "Portrait",
+          // "rgb": "#F0B6C8",
+          "items": [
+            {
+              "material_id": 2002100000,
+              "cnname": "原图",
+              "twname": "原圖",
+              "enname": "Original",
+              "rgb": ""
+            },
+            {
+              "material_id": 2002100723,
+              "cnname": "cheese",
+              "twname": "cheese",
+              "enname": "cheese",
+              "rgb": "#FC9EDE"
+            },
+            {
+              "material_id": 2002100116,
+              "cnname": "自然",
+              "twname": "自然",
+              "enname": "Natural",
+              "rgb": "#F9A1CD"
+            },
+            {
+              "material_id": 2002100477,
+              "cnname": "小森林",
+              "twname": "小森林",
+              "enname": "Jungle",
+              "rgb": "#FC9EDE"
+            },
+            {
+              "material_id": 2002100558,
+              "cnname": "柔光",
+              "twname": "柔光",
+              "enname": "Sunlit",
+              "rgb": "#FCACEC"
+            },
+            {
+              "material_id": 2002100690,
+              "cnname": "粉色气球",
+              "twname": "粉色氣球",
+              "enname": "Pink",
+              "rgb": "#FC9EDE"
+            },
+            {
+              "material_id": 2002100357,
+              "cnname": "日系",
+              "twname": "日系",
+              "enname": "Fresh",
+              "rgb": "#FFC4DD"
+            },
+            {
+              "material_id": 2002100553,
+              "cnname": "粉嫩",
+              "twname": "粉嫩",
+              "enname": "Sofina",
+              "rgb": "#FC9BBB"
+            },
+            {
+              "material_id": 2002100584,
+              "cnname": "Norge",
+              "twname": "Norge",
+              "enname": "Norge",
+              "rgb": "#FDA9B7"
+            },
+            {
+              "material_id": 2002100649,
+              "cnname": "Barm",
+              "twname": "Barm",
+              "enname": "Barm",
+              "rgb": "#FDA9B7"
+            },
+            {
+              "material_id": 2002100149,
+              "cnname": "甜美可人",
+              "twname": "甜美可人",
+              "enname": "Sweet",
+              "rgb": "#FEB2CD"
+            },
+            {
+              "material_id": 2002100579,
+              "cnname": "暮光之城",
+              "twname": "暮光之城",
+              "enname": "Twilight",
+              "rgb": "#FFC4DD"
+            },
+            {
+              "material_id": 2002100575,
+              "cnname": "黑白",
+              "twname": "黑白",
+              "enname": "B&W",
+              "visiable_maxversion": "99999",
+              "maxversion": "99999"
+            }
+          ]
+        },
+        {
+          "sub_category_id": 2002104,
+          "cnname": "通用",
+          "twname": "一般",
+          "enname": "General",
+          // "rgb": "#F0B6C8",
+          "items": [
+            {
+              "material_id": 2002104000,
+              "cnname": "原图",
+              "twname": "原圖",
+              "enname": "Original",
+              "rgb": ""
+            },
+            {
+              "material_id": 2002104574,
+              "cnname": "清浅时光",
+              "twname": "清淺時光",
+              "enname": "Clean",
+              "rgb": "#6BBEFB"
+            },
+            {
+              "material_id": 2002104557,
+              "cnname": "森屿海",
+              "twname": "森嶼海",
+              "enname": "Sea",
+              "rgb": "#76A2FE"
+            },
+            {
+              "material_id": 2002104635,
+              "cnname": "且听风吟",
+              "twname": "且聽風吟",
+              "enname": "Windcroon",
+              "rgb": "#91ADF7"
+            },
+            {
+              "material_id": 2002104729,
+              "cnname": "pinkdream",
+              "twname": "pinkdream",
+              "enname": "pinkdream",
+              "rgb": "#7293F2"
+            },
+            {
+              "material_id": 2002104530,
+              "cnname": "中环码头",
+              "twname": "中環碼頭",
+              "enname": "Pier",
+              "rgb": "#80B0FF"
+            },
+            {
+              "material_id": 2002104427,
+              "cnname": "白日梦蓝",
+              "twname": "百日藍夢",
+              "enname": "Daydream",
+              "rgb": "#80B0FF"
+            },
+            {
+              "material_id": 2002104436,
+              "cnname": "中央公园",
+              "twname": "中央公園",
+              "enname": "CtrlPark",
+              "rgb": "#80B0FF"
+            }
+          ]
+        },
+        {
+          "sub_category_id": 2002101,
+          "cnname": "美食",
+          "twname": "美食",
+          "enname": "Food",
+          // "rgb": "#F0B6C8",
+          "items": [
+            {
+              "material_id": 2002101000,
+              "cnname": "原图",
+              "twname": "原圖",
+              "enname": "Original",
+              "rgb": ""
+            },
+            {
+              "material_id": 2002101973,
+              "cnname": "粉花面包",
+              "twname": "粉花麵包",
+              "enname": "Bakery",
+              "rgb": "#FFC178"
+            },
+            {
+              "material_id": 2002101976,
+              "cnname": "味蕾之旅",
+              "twname": "味蕾之旅",
+              "enname": "Foodie",
+              "rgb": "#FFBF8B"
+            },
+            {
+              "material_id": 2002101974,
+              "cnname": "树林野餐",
+              "twname": "樹林野餐",
+              "enname": "Picnic",
+              "rgb": "#FAD689"
+            },
+            {
+              "material_id": 2002101977,
+              "cnname": "料理家",
+              "twname": "料理家",
+              "enname": "Chief",
+              "rgb": "#DBB5A0"
+            },
+            {
+              "material_id": 2002101975,
+              "cnname": "Chiffon",
+              "twname": "Chiffon",
+              "enname": "Chiffon",
+              "rgb": "#DBB5A0"
+            },
+            {
+              "material_id": 2002101978,
+              "cnname": "小食光",
+              "twname": "小食光",
+              "enname": "Tapas",
+              "rgb": "#DBB5A0"
+            }
+          ]
+        },
+        {
+          "sub_category_id": 2002102,
+          "cnname": "风景",
+          "twname": "風景",
+          "enname": "Scenery",
+          // "rgb": "#F0B6C8",
+          "items": [
+            {
+              "material_id": 2002102000,
+              "cnname": "原图",
+              "twname": "原圖",
+              "enname": "Original",
+              "rgb": ""
+            },
+            {
+              "material_id": 2002102573,
+              "cnname": "天堂湾",
+              "twname": "天堂灣",
+              "enname": "Paradise",
+              "rgb": "#6FDFCF"
+            },
+            {
+              "material_id": 2002102549,
+              "cnname": "HDR",
+              "twname": "HDR",
+              "enname": "HDR",
+              "rgb": "#87ECC5"
+            },
+            {
+              "material_id": 2002102426,
+              "cnname": "圣托里尼",
+              "twname": "聖托里尼",
+              "enname": "Santorini",
+              "rgb": "#8FDFD1"
+            },
+            {
+              "material_id": 2002102556,
+              "cnname": "忘忧森林",
+              "twname": "忘忧森林",
+              "enname": "Jungle",
+              "rgb": "#8FDFD1"
+            }
+          ]
+        },
+        {
+          "sub_category_id": 2002103,
+          "cnname": "静物",
+          "twname": "靜物",
+          "enname": "Objects",
+          // "rgb": "#F0B6C8",
+          "items": [
+            {
+              "material_id": 2002103000,
+              "cnname": "原图",
+              "twname": "原圖",
+              "enname": "Original",
+              "rgb": ""
+            },
+            {
+              "material_id": 2002103572,
+              "cnname": "春日和",
+              "twname": "春日和",
+              "enname": "Spring",
+              "rgb": "#FF7E7A"
+            },
+            {
+              "material_id": 2002103476,
+              "cnname": "星月夜",
+              "twname": "星月夜",
+              "enname": "Nocturne",
+              "rgb": "#FF9F95"
+            },
+            {
+              "material_id": 2002103175,
+              "cnname": "白露",
+              "twname": "白露",
+              "enname": "Dew",
+              "rgb": "#FF8AB3"
+            },
+            {
+              "material_id": 2002103173,
+              "cnname": "冷调",
+              "twname": "冷调",
+              "enname": "Freeze",
+              "rgb": "#FE839B"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 相机脸型
+      "category_id": 5001,
+      "sub_categories": [
+        {
+          "sub_category_id": 5001505,
+          "cnname": "脸型",
+          "twname": "脸型",
+          "enname": "脸型",
+          "rgb": "#f9c2d3",
+          "items": [
+            {
+              "material_id": 5001505000,
+              "name": "原图",
+              "cnname": "原图",
+              "twname": "原图",
+              "enname": "原图",
+              "esname": "",
+              "hiname": "",
+              "inname": "",
+              "janame": "",
+              "koname": "",
+              "ptname": "",
+              "thname": "",
+              "viname": "",
+              "viname": "",
+              "rgb": "#f9c2d3"
+            },
+            {
+              "material_id": 50001000,
+              "name": "自定义",
+              "cnname": "自定义",
+              "twname": "自定义",
+              "enname": "Customize",
+              "esname": "Natural",
+              "hiname": "प्राकृतिक",
+              "inname": "Kustom",
+              "janame": "カスタム",
+              "koname": "사용자 정의",
+              "ptname": "Personalizar",
+              "thname": "กำหนดเอง",
+              "viname": "Tùy chỉnh",
+              "rgb": "#f9c2d3"
+            },
+            {
+              "material_id": 50001001,
+              "name": "天生",
+              "cnname": "天生",
+              "twname": "天生",
+              "enname": "Natural",
+              "esname": "Natural",
+              "hiname": "प्राकृतिक",
+              "inname": "Alami",
+              "janame": "ナチュラル",
+              "koname": "내추럴",
+              "ptname": "Natural",
+              "thname": "ธรรมชาติ",
+              "viname": "Tự nhiên",
+              "rgb": "#f9c2d3"
+            },
+            {
+              "material_id": 50001004,
+              "name": "自然",
+              "cnname": "自然",
+              "twname": "自然",
+              "enname": "Delicate",
+              "esname": "Natural",
+              "hiname": "प्राकृतिक",
+              "inname": "Alami",
+              "janame": "しぜん",
+              "koname": "내추럴",
+              "ptname": "Natural",
+              "thname": "ธรรมชาติ",
+              "viname": "Tự nhiên",
+              "rgb": "#f9c2d3"
+            },
+            {
+              "material_id": 50001002,
+              "name": "精致",
+              "cnname": "精致",
+              "twname": "精致",
+              "enname": "Goddess",
+              "esname": "Hada",
+              "hiname": "परी",
+              "inname": "Peri",
+              "janame": "ピクシー",
+              "koname": "픽시 요정",
+              "ptname": "Fada",
+              "thname": "ภูติจิ๋ว",
+              "viname": "Yêu tinh",
+              "rgb": "#f9c2d3"
+            },
+            {
+              "material_id": 50001003,
+              "name": "女神",
+              "cnname": "女神",
+              "twname": "女神",
+              "enname": "Adorable",
+              "esname": "Diosa",
+              "hiname": "देवी",
+              "inname": "Dewi",
+              "janame": "女神",
+              "koname": "여신",
+              "ptname": "Deusa",
+              "thname": "เทพธิดา",
+              "viname": "Thần tiên",
+              "rgb": "#f9c2d3"
+            },
+            {
+              "material_id": 50001005,
+              "name": "男神",
+              "cnname": "男神",
+              "twname": "男神",
+              "enname": "Delicate",
+              "esname": "Juvenil",
+              "hiname": "लड़कों-सा",
+              "inname": "Anak",
+              "janame": "メンズ",
+              "koname": "보이시",
+              "ptname": "Garoto",
+              "thname": "หนุ่มๆ",
+              "viname": "Nam tính",
+              "rgb": "#f9c2d3"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 蒙奇奇背景
+      "category_id": 2105,
+      "sub_categories": [
+        {
+          "sub_category_id": 2105000,
+          "items": [
+            {
+              "material_id": 2105000000,
+              "sort": 99999999
+            }
+          ]
+        },
+        //添加一个新的来支持风格二
+        {
+          "sub_category_id": 2105011,
+          "items": [
+            {
+              "material_id": 210500011001,
+              "region_type": 11,
+              "sort": 99999999
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 蒙奇奇音乐
+      "category_id": 2106,
+      "sub_categories": [
+        {
+          "sub_category_id": 2106000,
+          "cnname": "蒙奇奇音乐",
+          "twname": "蒙奇奇音乐",
+          "enname": "蒙奇奇音乐",
+          "rgb": "#f9c2d3",
+          "items": [
+            {
+              "material_id": 2106000000,
+              "name": "录音",
+              "cnname": "录音",
+              "twname": "录音",
+              "enname": "录音",
+              "rgb": "#f9c2d3",
+              "sort": 99999999
+            },
+            {
+              "material_id": 2106000001,
+              "name": "变声",
+              "cnname": "变声",
+              "twname": "变声",
+              "enname": "变声",
+              "rgb": "#f9c2d3",
+              "sort": 99999998
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 蒙奇奇五官-脸
+      "category_id": 2107,
+      "sub_categories": [
+        {
+          "sub_category_id": 2107000,
+          "items": [
+            {
+              "material_id": 210700000001
+            },
+            {
+              "material_id": 210700000002
+            },
+            {
+              "material_id": 210700000003
+            },
+            {
+              "material_id": 210700000004
+            },
+            {
+              "material_id": 210700000005
+            },
+            {
+              "material_id": 210700000006
+            },
+            {
+              "material_id": 210700000007
+            },
+            {
+              "material_id": 210700000008
+            },
+            {
+              "material_id": 210700000009
+            },
+            {
+              "material_id": 210700000010
+            },
+            //风格2:用region_type来区分，ID倒数4.5位添加11来表示
+            {
+              "material_id": 210700011001,
+              "region_type": 11
+            },
+            {
+              "material_id": 210700011002,
+              "region_type": 11
+            },
+            {
+              "material_id": 210700011003,
+              "region_type": 11
+            },
+            {
+              "material_id": 210700011004,
+              "region_type": 11
+            },
+            {
+              "material_id": 210700011005,
+              "region_type": 11
+            },
+            {
+              "material_id": 210700011006,
+              "region_type": 11
+            },
+            {
+              "material_id": 210700011007,
+              "region_type": 11
+            },
+            {
+              "material_id": 210700011008,
+              "region_type": 11
+            },
+            {
+              "material_id": 210700011009,
+              "region_type": 11
+            },
+            {
+              "material_id": 210700011010,
+              "region_type": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 蒙奇奇五官-眼睛
+      "category_id": 2108,
+      "sub_categories": [
+        {
+          "sub_category_id": 2108000,
+          "items": [
+            {
+              "material_id": 210800000001
+            },
+            {
+              "material_id": 210800000002
+            },
+            {
+              "material_id": 210800000003
+            },
+            {
+              "material_id": 210800000004
+            },
+            {
+              "material_id": 210800000005
+            },
+            {
+              "material_id": 210800000006
+            },
+            {
+              "material_id": 210800000007
+            },
+            //风格二
+            {
+              "material_id": 210800011001,
+              "region_type": 11
+            },
+            {
+              "material_id": 210800011002,
+              "region_type": 11
+            },
+            {
+              "material_id": 210800011003,
+              "region_type": 11
+            },
+            {
+              "material_id": 210800011004,
+              "region_type": 11
+            },
+            {
+              "material_id": 210800011005,
+              "region_type": 11
+            },
+            {
+              "material_id": 210800011006,
+              "region_type": 11
+            },
+            {
+              "material_id": 210800011007,
+              "region_type": 11
+            },
+            {
+              "material_id": 210800011008,
+              "region_type": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 蒙奇奇五官-眉毛
+      "category_id": 2109,
+      "sub_categories": [
+        {
+          "sub_category_id": 2109000,
+          "items": [
+            {
+              "material_id": 210900000001
+            },
+            {
+              "material_id": 210900000002
+            },
+            {
+              "material_id": 210900000003
+            },
+            {
+              "material_id": 210900000004
+            },
+            {
+              "material_id": 210900000005
+            },
+            {
+              "material_id": 210900000006
+            },
+            {
+              "material_id": 210900000007
+            },
+            {
+              "material_id": 210900000008
+            },
+            {
+              "material_id": 210900000009
+            },
+            //风格二
+            {
+              "material_id": 210900011001,
+              "region_type": 11
+            },
+            {
+              "material_id": 210900011002,
+              "region_type": 11
+            },
+            {
+              "material_id": 210900011003,
+              "region_type": 11
+            },
+            {
+              "material_id": 210900011004,
+              "region_type": 11
+            },
+            {
+              "material_id": 210900011005,
+              "region_type": 11
+            },
+            {
+              "material_id": 210900011006,
+              "region_type": 11
+            },
+            {
+              "material_id": 210900011007,
+              "region_type": 11
+            },
+            {
+              "material_id": 210900011008,
+              "region_type": 11
+            },
+            {
+              "material_id": 210900011009,
+              "region_type": 11
+            },
+            {
+              "material_id": 210900011010,
+              "region_type": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 蒙奇奇五官-嘴唇
+      "category_id": 2110,
+      "sub_categories": [
+        {
+          "sub_category_id": 2110000,
+          "cnname": "蒙奇奇五官-嘴唇",
+          "twname": "蒙奇奇五官-嘴唇",
+          "enname": "蒙奇奇五官-嘴唇",
+          "rgb": "#f9c2d3",
+          "items": [
+            {
+              "material_id": 211000000001
+            },
+            {
+              "material_id": 211000000002
+            },
+            {
+              "material_id": 211000000003
+            },
+            //风格二
+            {
+              "material_id": 211000011001,
+              "region_type": 11
+            },
+            {
+              "material_id": 211000011002,
+              "region_type": 11
+            },
+            {
+              "material_id": 211000011003,
+              "region_type": 11
+            },
+            {
+              "material_id": 211000011004,
+              "region_type": 11
+            },
+            {
+              "material_id": 211000011005,
+              "region_type": 11
+            },
+            {
+              "material_id": 211000011006,
+              "region_type": 11
+            },
+            {
+              "material_id": 211000011007,
+              "region_type": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 蒙奇奇五官-肤色
+      "category_id": 2111,
+      "sub_categories": [
+        {
+          "sub_category_id": 2111501,
+          "items": [
+            {
+              "material_id": 211150100001
+            },
+            {
+              "material_id": 211150100002
+            },
+            {
+              "material_id": 211150100003
+            },
+            {
+              "material_id": 211150100004
+            },
+            {
+              "material_id": 211150100005
+            },
+            {
+              "material_id": 211150100006
+            },
+            {
+              "material_id": 211150100007
+            },
+            {
+              "material_id": 211150100008
+            }
+          ]
+        },
+        {
+          "sub_category_id": 2111502,
+          "items": [
+            {
+              "material_id": 211150200001
+            },
+            {
+              "material_id": 211150200002
+            },
+            {
+              "material_id": 211150200003
+            },
+            {
+              "material_id": 211150200004
+            },
+            {
+              "material_id": 211150200005
+            },
+            {
+              "material_id": 211150200006
+            },
+            {
+              "material_id": 211150200007
+            },
+            {
+              "material_id": 211150200008
+            },
+            {
+              "material_id": 211150200009
+            },
+            {
+              "material_id": 211150200010
+            }
+          ]
+        },
+        {
+          "sub_category_id": 2111503,
+          "items": [
+            {
+              "material_id": 211150300001
+            },
+            {
+              "material_id": 211150300002
+            },
+            {
+              "material_id": 211150300003
+            },
+            {
+              "material_id": 211150300004
+            },
+            {
+              "material_id": 211150300005
+            },
+            {
+              "material_id": 211150300006
+            },
+            {
+              "material_id": 211150300007
+            },
+            {
+              "material_id": 211150300008
+            },
+            {
+              "material_id": 211150300009
+            },
+            {
+              "material_id": 211150300010
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 蒙奇奇-其他
+      "category_id": 2112,
+      "sub_categories": [
+        {
+          "sub_category_id": 2112404,
+          "items": [
+            {
+              "material_id": "211240400001"
+            },
+            {
+              "material_id": "211240411001",
+              "region_type": 11
+            }
+          ]
+        },
+        {
+          "sub_category_id": 2112405,
+          "items": [
+            {
+              "material_id": "211240500001"
+            },
+            {
+              "material_id": "211240511001",
+              "region_type": 11
+            }
+          ]
+        },
+        {
+          "sub_category_id": 2112406,
+          "items": [
+            {
+              "material_id": "211240600001"
+            },
+            {
+              "material_id": "211240600002"
+            },
+            {
+              "material_id": "211240611001",
+              "region_type": 11
+            },
+            {
+              "material_id": "211240611002",
+              "region_type": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 蒙奇奇-鼻子
+      "category_id": 2113,
+      "sub_categories": [
+        {
+          "sub_category_id": 2113000,
+          "items": [
+            {
+              "material_id": "211300000001",
+              "region_type": 11
+            },
+            {
+              "material_id": "211300000002",
+              "region_type": 11
+            },
+            {
+              "material_id": "211300000003",
+              "region_type": 11
+            },
+            {
+              "material_id": "211300000004",
+              "region_type": 11
+            },
+            {
+              "material_id": "211300000005",
+              "region_type": 11
+            },
+            {
+              "material_id": "211300000006",
+              "region_type": 11
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 6.8拼图模板
+      "category_id": 3001,
+      "sub_categories": [
+        {
+          "sub_category_id": 3001901,
+          "cnname": "模板拼图",
+          "twname": "模板拼图",
+          "enname": "PuzzleTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3001901001
+            },
+            {
+              "material_id": 3001901002
+            },
+            {
+              "material_id": 3001901003
+            },
+            {
+              "material_id": 3001901004
+            },
+            {
+              "material_id": 3001901005
+            },
+            {
+              "material_id": 3001901006
+            },
+            {
+              "material_id": 3001901007
+            },
+            {
+              "material_id": 3001901008
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3001902,
+          "cnname": "模板拼图",
+          "twname": "模板拼图",
+          "enname": "PuzzleTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3001902001
+            },
+            {
+              "material_id": 3001902002
+            },
+            {
+              "material_id": 3001902003
+            },
+            {
+              "material_id": 3001902004
+            },
+            {
+              "material_id": 3001902005
+            },
+            {
+              "material_id": 3001902006
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3001903,
+          "cnname": "模板拼图",
+          "twname": "模板拼图",
+          "enname": "PuzzleTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3001903001
+            },
+            {
+              "material_id": 3001903002
+            },
+            {
+              "material_id": 3001903003
+            },
+            {
+              "material_id": 3001903004
+            },
+            {
+              "material_id": 3001903005
+            },
+            {
+              "material_id": 3001903006
+            },
+            {
+              "material_id": 3001903007
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3001904,
+          "cnname": "模板拼图",
+          "twname": "模板拼图",
+          "enname": "PuzzleTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3001904001
+            },
+            {
+              "material_id": 3001904002
+            },
+            {
+              "material_id": 3001904003
+            },
+            {
+              "material_id": 3001904004
+            },
+            {
+              "material_id": 3001904005
+            },
+            {
+              "material_id": 3001904006
+            },
+            {
+              "material_id": 3001904007
+            },
+            {
+              "material_id": 3001904008
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3001905,
+          "cnname": "模板拼图",
+          "twname": "模板拼图",
+          "enname": "PuzzleTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3001905001
+            },
+            {
+              "material_id": 3001905002
+            },
+            {
+              "material_id": 3001905003
+            },
+            {
+              "material_id": 3001905004
+            },
+            {
+              "material_id": 3001905005
+            },
+            {
+              "material_id": 3001905006
+            },
+            {
+              "material_id": 3001905007
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3001906,
+          "cnname": "模板拼图",
+          "twname": "模板拼图",
+          "enname": "PuzzleTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3001906001
+            },
+            {
+              "material_id": 3001906002
+            },
+            {
+              "material_id": 3001906003
+            },
+            {
+              "material_id": 3001906004
+            },
+            {
+              "material_id": 3001906005
+            },
+            {
+              "material_id": 3001906006
+            },
+            {
+              "material_id": 3001906007
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3001907,
+          "cnname": "模板拼图",
+          "twname": "模板拼图",
+          "enname": "PuzzleTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3001907001
+            },
+            {
+              "material_id": 3001907002
+            },
+            {
+              "material_id": 3001907003
+            },
+            {
+              "material_id": 3001907004
+            },
+            {
+              "material_id": 3001907005
+            },
+            {
+              "material_id": 3001907006
+            },
+            {
+              "material_id": 3001907007
+            },
+            {
+              "material_id": 3001907008
+            },
+            {
+              "material_id": 3001907009
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3001908,
+          "cnname": "模板拼图",
+          "twname": "模板拼图",
+          "enname": "PuzzleTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3001908001
+            },
+            {
+              "material_id": 3001908002
+            },
+            {
+              "material_id": 3001908003
+            },
+            {
+              "material_id": 3001908004
+            },
+            {
+              "material_id": 3001908005
+            },
+            {
+              "material_id": 3001908006
+            },
+            {
+              "material_id": 3001908007
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3001909,
+          "cnname": "模板拼图",
+          "twname": "模板拼图",
+          "enname": "PuzzleTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3001909001
+            },
+            {
+              "material_id": 3001909002
+            },
+            {
+              "material_id": 3001909003
+            },
+            {
+              "material_id": 3001909004
+            },
+            {
+              "material_id": 3001909005
+            },
+            {
+              "material_id": 3001909006
+            },
+            {
+              "material_id": 3001909007
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 6.8海报拼图1张图
+      "category_id": 3011,
+      "sub_categories": [
+        {
+          "sub_category_id": 3011000,
+          "cnname": "海报拼图",
+          "twname": "海报拼图",
+          "enname": "PuzzlePoster",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3011000042
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 6.8海报拼图2张图
+      "category_id": 3012,
+      "sub_categories": [
+        {
+          "sub_category_id": 3012000,
+          "cnname": "海报拼图",
+          "twname": "海报拼图",
+          "enname": "PuzzlePoster",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3012000007
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 6.8海报拼图3张图
+      "category_id": 3013,
+      "sub_categories": [
+        {
+          "sub_category_id": 3013000,
+          "cnname": "海报拼图",
+          "twname": "海报拼图",
+          "enname": "PuzzlePoster",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3013000056
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 6.8海报拼图4张图
+      "category_id": 3014,
+      "sub_categories": [
+        {
+          "sub_category_id": 3014000,
+          "cnname": "海报拼图",
+          "twname": "海报拼图",
+          "enname": "PuzzlePoster",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3014000077
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 6.8海报拼图5张图
+      "category_id": 3015,
+      "sub_categories": [
+        {
+          "sub_category_id": 3015000,
+          "cnname": "海报拼图",
+          "twname": "海报拼图",
+          "enname": "PuzzlePoster",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3015000068
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 6.8海报拼图6张图
+      "category_id": 3016,
+      "sub_categories": [
+        {
+          "sub_category_id": 3016000,
+          "cnname": "海报拼图",
+          "twname": "海报拼图",
+          "enname": "PuzzlePoster",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3016000017
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 6.8海报拼图7张图
+      "category_id": 3017,
+      "sub_categories": [
+        {
+          "sub_category_id": 3017000,
+          "cnname": "海报拼图",
+          "twname": "海报拼图",
+          "enname": "PuzzlePoster",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3017000031
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 6.8海报拼图8张图
+      "category_id": 3018,
+      "sub_categories": [
+        {
+          "sub_category_id": 3018000,
+          "cnname": "海报拼图",
+          "twname": "海报拼图",
+          "enname": "PuzzlePoster",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3018000034
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 6.8海报拼图9张图
+      "category_id": 3019,
+      "sub_categories": [
+        {
+          "sub_category_id": 3019000,
+          "cnname": "海报拼图",
+          "twname": "海报拼图",
+          "enname": "PuzzlePoster",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3019000072
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 6.8自由拼图背景
+      "category_id": 3003,
+      "sub_categories": [
+        {
+          "sub_category_id": 3003000,
+          "cnname": "自由拼图背景",
+          "twname": "自由拼图背景",
+          "enname": "PuzzleFreeBackground",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3003000001
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 6.8拼图拼接
+      "category_id": 3004,
+      "sub_categories": [
+        {
+          "sub_category_id": 3004000,
+          "cnname": "拼图拼接",
+          "twname": "拼图拼接",
+          "enname": "PuzzleJoint",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3004000003
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 6.8 自由拼图模板
+      "category_id": 3005,
+      "sub_categories": [
+        {
+          "sub_category_id": 3005901,
+          "cnname": "自由拼图模板",
+          "twname": "自由拼图模板",
+          "enname": "PuzzleFreeTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3005901000
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3005902,
+          "cnname": "自由拼图模板",
+          "twname": "自由拼图模板",
+          "enname": "PuzzleFreeTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3005902000
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3005903,
+          "cnname": "自由拼图模板",
+          "twname": "自由拼图模板",
+          "enname": "PuzzleFreeTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3005903000
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3005904,
+          "cnname": "自由拼图模板",
+          "twname": "自由拼图模板",
+          "enname": "PuzzleFreeTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3005904000
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3005905,
+          "cnname": "自由拼图模板",
+          "twname": "自由拼图模板",
+          "enname": "PuzzleFreeTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3005905000
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3005906,
+          "cnname": "自由拼图模板",
+          "twname": "自由拼图模板",
+          "enname": "PuzzleFreeTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3005906000
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3005907,
+          "cnname": "自由拼图模板",
+          "twname": "自由拼图模板",
+          "enname": "PuzzleFreeTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3005907000
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3005908,
+          "cnname": "自由拼图模板",
+          "twname": "自由拼图模板",
+          "enname": "PuzzleFreeTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3005908000
+            }
+          ]
+        },
+        {
+          "sub_category_id": 3005909,
+          "cnname": "自由拼图模板",
+          "twname": "自由拼图模板",
+          "enname": "PuzzleFreeTemplate",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 3005909000
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 美妆唇彩模块
+      "category_id": 4001,
+      "sub_categories": [
+        {
+          "sub_category_id": 4001901,
+          "cnname": "唇彩",
+          "twname": "唇彩",
+          "enname": "唇彩",
+          "rgb": "#000000",
+          "items": [
+
+            {
+              "material_id": 40010035,
+              "cnname": "OR06",
+              "twname": "OR06",
+              "enname": "OR06",
+              "color": "#fe8063"
+            },
+            {
+              "material_id": 40010029,
+              "cnname": "RD06",
+              "twname": "RD06",
+              "enname": "RD06",
+              "color": "#ff2621"
+            },
+            {
+              "material_id": 40010003,
+              "cnname": "RD02",
+              "twname": "RD02",
+              "enname": "RD02",
+              "color": "#af242c"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      //美妆眉毛模块
+      "category_id": 4002,
+      "sub_categories": [
+        {
+          "sub_category_id": 4002901,
+          "cnname": "眉毛",
+          "twname": "眉毛",
+          "enname": "眉毛",
+          "rgb": "#80CAFF",
+          "items": [
+
+
+            {
+              "material_id": 40020002,
+              "cnname": "01",
+              "twname": "01",
+              "enname": "01"
+            },
+            {
+              "material_id": 40020005,
+              "cnname": "02",
+              "twname": "02",
+              "enname": "02"
+            },
+
+            {
+              "material_id": 40020018,
+              "cnname": "03",
+              "twname": "03",
+              "enname": "03"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 美妆眼影模块
+      "category_id": 4003,
+      "sub_categories": [
+        {
+          "sub_category_id": 4003901,
+          "cnname": "眼影",
+          "twname": "眼影",
+          "enname": "眼影",
+          "rgb": "#80CAFF",
+          "items": [
+            {
+              "material_id": 40030001,
+              "cnname": "BR01",
+              "twname": "BR01",
+              "enname": "BR01"
+            },
+            {
+              "material_id": 40030003,
+              "cnname": "ND01",
+              "twname": "ND01",
+              "enname": "ND01"
+
+            }, {
+              "material_id": 40030005,
+              "cnname": "PK01",
+              "twname": "PK01",
+              "enname": "PK01"
+
+            }
+          ]
+        }
+      ]
+    },
+    {
+      // 美妆五官立体
+      "category_id": 4004,
+      "sub_categories": [
+        {
+          "sub_category_id": 4004000,
+          "cnname": "五官立体",
+          "twname": "五官立体",
+          "enname": "五官立体",
+          "rgb": "#80CAFF",
+          "items": [
+
+            {
+              "material_id": 40040005,
+              "cnname": "CO02",
+              "twname": "CO02",
+              "enname": "CO02"
+            },
+            {
+              "material_id": 40040001,
+              "cnname": "CO01",
+              "twname": "CO01",
+              "enname": "CO01"
+            }, {
+              "material_id": 40040002 ,
+              "cnname": "BL01",
+              "twname": "BL01",
+              "enname": "BL01"
+            }
+
+          ]
+        }
+      ]
+    },
+
+    {
+      // 一键美妆
+      "category_id": 4005,
+      "sub_categories": [
+        {
+          "sub_category_id": 4005000,
+          "cnname": "一键美妆",
+          "twname": "一键美妆",
+          "enname": "一键美妆",
+          "rgb": "#80CAFF",
+          "items": [
+
+
+          ]
+        }
+      ]
+    }
+
+  ]
+}

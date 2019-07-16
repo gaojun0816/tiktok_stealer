@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<puzzle>
+    <resId>3001904005</resId>
+    <version>1</version>
+
+    <name>模板4-5</name>
+
+    <iconPath>thumbnail.post</iconPath>
+
+    <width>1500</width>
+    <height>1500</height>
+
+    <photoAmount>4</photoAmount>
+    <formatAmount>1</formatAmount>
+
+    <backgroundColor>#ffffffff</backgroundColor>
+    <backgroundImagePath />
+    <backgroundTile />
+
+    <!-- 背景图片类型： 0：纯色； 1：普通图像； 2：照片-->
+    <backgroundType>0</backgroundType>
+    <backgroundFilter />
+
+    <photoPuzzlePieces>
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,0},{500,750}}</frameRect>
+            </frameRectArray>
+            <contentMode>2</contentMode>
+            <photoIndex>0</photoIndex>
+            <borderHasNeighbors>0,0,1,1</borderHasNeighbors>
+        </photoPuzzle>
+
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{500,0},{1000,750}}</frameRect>
+            </frameRectArray>
+            <contentMode>2</contentMode>
+            <photoIndex>1</photoIndex>
+            <borderHasNeighbors>1,0,0,1</borderHasNeighbors>
+        </photoPuzzle>
+
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,750},{1000,750}}</frameRect>
+            </frameRectArray>
+            <contentMode>2</contentMode>
+            <photoIndex>2</photoIndex>
+            <borderHasNeighbors>0,1,1,0</borderHasNeighbors>
+        </photoPuzzle>
+
+        <photoPuzzle>
+            <maskPath />
+            <filterPath />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{1000,750},{500,750}}</frameRect>
+            </frameRectArray>
+            <contentMode>2</contentMode>
+            <photoIndex>3</photoIndex>
+            <borderHasNeighbors>1,1,0,0</borderHasNeighbors>
+        </photoPuzzle>
+    </photoPuzzlePieces>
+
+    <imagePuzzlePieces />
+
+    <textPuzzlePieces />
+
+    <boundaryPieces>
+        <boundaryPiece>
+            <patchIndex>10</patchIndex>
+            <frameRect>{{450,0},{100,750}}</frameRect>
+            <!-- 移动方向，取值1：水平移动；取值2：竖直移动-->
+            <translateDirection>1</translateDirection>
+            <!-- 被这个分界线部件分隔的照片部件，部件以照片的index描述，用逗号隔开，格式：0,1,2,3-->
+            <patchesDividedBy>0,1</patchesDividedBy>
+        </boundaryPiece>
+        <boundaryPiece>
+            <patchIndex>11</patchIndex>
+            <frameRect>{{0,700},{1500,100}}</frameRect>
+            <translateDirection>2</translateDirection>
+            <patchesDividedBy>0,1,2,3,10,12</patchesDividedBy>
+        </boundaryPiece>
+        <boundaryPiece>
+            <patchIndex>12</patchIndex>
+            <frameRect>{{950,750},{100,750}}</frameRect>
+            <translateDirection>1</translateDirection>
+            <patchesDividedBy>2,3</patchesDividedBy>
+        </boundaryPiece>
+    </boundaryPieces>
+
+    <activity>
+        <sina />
+        <expired />
+    </activity>
+</puzzle>

@@ -1,0 +1,19 @@
+[
+  {
+    "tab_id": "2147483646",
+    "name": "Trending",
+    "is_default": 1
+  },
+  {
+    "tab_id": "1",
+    "name": "Snap & Edit"
+  },
+  {
+    "tab_id": "2",
+    "name": "Makeup"
+  },
+  {
+    "tab_id": "3",
+    "name": "Famous Store"
+  }
+]

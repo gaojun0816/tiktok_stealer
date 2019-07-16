@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<puzzle>
+    <resId>3002000017</resId>
+    <version>1</version>
+    <categoryID>1009</categoryID>
+    <name>美丽人生</name>
+    <iconPath>thumbnail</iconPath>
+    <width>1000</width>
+    <height>1500</height>
+    <photoAmount>6</photoAmount>
+    <formatAmount>1</formatAmount>
+    <backgroundColor />
+    <backgroundImagePath />
+    <backgroundTile />
+    <backgroundType>0</backgroundType>
+    <bgBlurFilter />
+    <bgFilterMaterialId />
+    <photoPuzzlePieces>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,0},{332,369}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,369},{332,377}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{0,1123},{670,377}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{332,746},{338,377}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{670,746},{330,377}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+        <photoPuzzle>
+            <maskPath />
+            <blurFilter />
+            <filterMaterialId />
+            <backgroundImagePath />
+            <backgroundImageInnerFrame />
+            <frameRectArray>
+                <frameRect>{{332,0},{668,369}}</frameRect>
+            </frameRectArray>
+        </photoPuzzle>
+    </photoPuzzlePieces>
+    <imagePuzzlePieces>
+        <imagePuzzle>
+            <type>0</type>
+            <imagePath>img.post</imagePath>
+            <weatherColor />
+            <frameRectArray>
+                <frameRect>{{0,0},{1000,1500}}</frameRect>
+            </frameRectArray>
+        </imagePuzzle>
+    </imagePuzzlePieces>
+    <textPuzzlePieces />
+    <activity>
+        <sina />
+        <expired />
+    </activity>
+</puzzle>

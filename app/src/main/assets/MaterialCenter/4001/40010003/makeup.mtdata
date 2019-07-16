@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ID</key>
+		<integer>40010003</integer>
+		<key>MouthTypes</key>
+		<array>
+			<dict>
+				<key>PartName</key>
+				<string>Moisten</string>
+				<key>DefaultAlpha</key>
+				<integer>70</integer>
+				<key>FacePart</key>
+				<array>
+					<dict>
+						<key>Type</key>
+						<string>S</string>
+						<key>LocateMethod</key>
+						<integer>2</integer>
+						<key>AdditionalTexture</key>
+						<string>53_z_lut.png</string>
+						<key>ORGBA</key>
+						<string>100,0,0,0,255</string>
+						<key>Rectangle</key>
+						<string>392,804,231,107</string>
+						<key>FilterType</key>
+						<integer>52</integer>
+						<key>MUType</key>
+						<integer>1</integer>
+						<key>Operation</key>
+						<integer>0</integer>
+					</dict>
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>ID</key>
+		<integer>44020018</integer>
+		<key>DefaultAlpha</key>
+		<integer>65</integer>
+		<key>FacePart</key>
+		<array>
+			<dict>
+				<key>Type</key>
+				<string>S</string>
+				<key>LocateMethod</key>
+				<integer>8</integer>
+				<key>Path</key>
+				<string>18_mmz.png</string>
+				<key>ORGBA</key>
+				<string>0,0,0,0,0</string>
+				<key>Rectangle</key>
+				<string>217,421,249,84</string>
+				<key>FilterType</key>
+				<integer>3</integer>
+				<key>MUType</key>
+				<integer>2</integer>
+				<key>Operation</key>
+				<integer>0</integer>
+			</dict>
+			<dict>
+				<key>Type</key>
+				<string>S</string>
+				<key>LocateMethod</key>
+				<integer>9</integer>
+				<key>Path</key>
+				<string>18_mmy.png</string>
+				<key>ORGBA</key>
+				<string>0,0,0,0,0</string>
+				<key>Rectangle</key>
+				<string>546,418,249,84</string>
+				<key>FilterType</key>
+				<integer>3</integer>
+				<key>MUType</key>
+				<integer>2</integer>
+				<key>Operation</key>
+				<integer>1</integer>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

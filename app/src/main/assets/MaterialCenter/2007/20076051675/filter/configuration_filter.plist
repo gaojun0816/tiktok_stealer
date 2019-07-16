@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ID</key>
+	<integer>675</integer>
+	<key>FilterPart</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>ImageFilter</string>
+			<key>ForceAlpha</key>
+			<string>0</string>
+			<key>ForceUseAR</key>
+			<string>1</string>
+			<key>DefaultAlpha</key>
+			<string>0.8</string>
+			<key>DefaultBeautyAlpha</key>
+			<string>0.25</string>
+			<key>DataNum</key>
+			<string>0</string>
+			<key>StepNum</key>
+			<string>1</string>
+			<key>Step</key>
+			<array>
+				<dict>
+					<key>Type</key>
+					<string>1017</string>
+					<key>DestDataIndex</key>
+					<string>0</string>
+					<key>LutLength</key>
+					<string>16</string>
+					<key>Path</key>
+					<string>675.png</string>
+				</dict>
+			</array>
+			<key>UI</key>
+			<array>
+				<dict>
+					<key>Type</key>
+					<string>1</string>
+					<key>Path</key>
+					<string>675.png</string>
+					<key>size</key>
+					<string>0</string>
+					<key>doOnMask</key>
+					<string>0</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ID</key>
+	<integer>141</integer>
+	<key>FilterPart</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>FilterOnline</string>
+			<key>Path</key>
+			<string>141.filteronline</string>
+			<key>DefaultAlpha</key>
+			<string>0.8</string>
+			<key>DefaultBeautyAlpha</key>
+			<string>0.25</string>
+		</dict>
+	</array>
+</dict>
+</plist>

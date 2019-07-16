@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>磨皮程度</key>
+	<string>0.8</string>
+	<key>美白程度</key>
+	<string>0.4</string>
+	<key>锐化程度</key>
+	<string>0.45</string>
+	<key>高-美型</key>
+	<string>0.8</string>
+	<key>中-美型</key>
+	<string>0.44</string>
+	<key>低-美型</key>
+	<string>0.1</string>
+	<key>亮眼程度</key>
+	<string>0.7</string>
+	<key>祛黑眼圈程度</key>
+	<string>0.6</string>
+	<key>对比度程度</key>
+	<string>0.73</string>
+</dict>
+</plist>

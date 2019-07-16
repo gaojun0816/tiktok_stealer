@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<array>
+		<!-- colorDev -->
+		<dict>
+			<key>Name</key><string>colorDev</string>
+			<key>VSPath</key><string>colorDev.vs</string>
+			<key>FSPath</key><string>colorDev.fs</string>
+			<!-- 传递源纹理宽高 -->
+			<key>GenWH</key><integer>1</integer>
+			<key>Params</key>
+			<array>
+				<dict>
+					<key>Key</key><string>colorDevX</string>
+					<key>DataType</key><string>float</string>
+					<key>Value</key><string>0.5</string>
+					<!-- 根据源视频索引循环设置 -->
+					<key>LoopSetting</key><integer>1</integer>
+				</dict>
+				<dict>
+					<key>Key</key><string>colorDevY</string>
+					<key>DataType</key><string>float</string>
+					<key>Value</key><string>-0.5</string>
+					<!-- 根据源视频索引循环设置 -->
+					<key>LoopSetting</key><integer>1</integer>
+				</dict>
+				<dict>
+					<key>Key</key><string>colorDevXDegree</string>
+					<key>DataType</key><string>float</string>
+					<key>Value</key><string>5.0</string>
+				</dict>
+				<dict>
+					<key>Key</key><string>colorDevYDegree</string>
+					<key>DataType</key><string>float</string>
+					<key>Value</key><string>1.0</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</plist>

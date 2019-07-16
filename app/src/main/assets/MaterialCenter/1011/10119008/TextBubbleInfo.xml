@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<textBubble>
+    <resId>10119008</resId>
+    <version>1</version>
+    <name>林小舌08</name>
+    <iconPath>thumbnail.mate</iconPath>
+    <width>564</width>
+    <height>281</height>
+    <backgroundImagePath>bg.thu</backgroundImagePath>
+    <mirrorReverse>1</mirrorReverse>
+    <imagePieceArray/>
+    <textPieceArray>
+        <textPiece>
+            <type>2</type>
+            <text>{@}</text>
+            <format>c4</format>
+            <language>zh_CN</language>
+            <align>0</align>
+            <caseString>1</caseString>
+            <editable>true</editable>
+            <color>#764300FF</color>
+            <isBold>false</isBold>
+            <showShadow>false</showShadow>
+            <showPinyin/>
+            <shadowOffset/>
+            <shadowColor/>
+            <frameRect>{{103,242},{383,39}}</frameRect>
+            <isVerticalText>false</isVerticalText>
+            <verticalAlign>1</verticalAlign>
+            <maxTextHeight>32</maxTextHeight>
+            <minTextHeight>0</minTextHeight>
+        </textPiece>
+    </textPieceArray>
+    <activity>
+        <expired/>
+        <sina/>
+        <qzone/>
+        <tencent/>
+    </activity>
+</textBubble>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ID</key>
+	<real>2004</real>
+	<key>FilterPart</key>
+	<array>
+		<dict>
+			<key>Type</key>
+			<string>RealtimeFilter</string>
+			<key>VSPath</key>
+			<string>Shader_Vertex.vs</string>
+			<key>FSPath</key>
+			<string>Shader_Mapping.fs</string>
+			<key>StrokeType</key>
+			<string>2004</string>
+			<key>Texture</key>
+			<array>
+				<dict>
+					<key>Type</key>
+					<string>6</string>
+				</dict>
+			</array>
+			<key>Uniform</key>
+			<array>
+				<dict>
+					<key>uType</key>
+					<string>uvt_VECT3</string>
+					<key>uName</key>
+					<string>color</string>
+					<key>uValue</key>
+					<string>1.0,0.0,0.0</string>
+				</dict>
+				<dict>
+					<key>uType</key>
+					<string>uvt_FLOAT</string>
+					<key>uName</key>
+					<string>size</string>
+					<key>uValue</key>
+					<string>0.08</string>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
