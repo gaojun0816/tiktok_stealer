@@ -12,16 +12,16 @@ import java.util.ArrayList;
 
 
 public class FaceDetector {
-    private static String tag = "Plagiarist/FaceDtr";
-    private static String pkgName = "com.mt.mtxx.mtxx";
+    private static final String tag = "Plagiarist/FaceDtr";
+    private static final String pkgName = "com.mt.mtxx.mtxx";
     //    private static String pkgName = "com.commsource.beautyplus";
     private static FaceDetector singleton;
     private static Context thisApp;
     private static Context invokee;
     private static ClassLoader loader;
-    private static String[] nativeLibs = {"libgnustl_shared.so", "libmtnn.so",
+    private static final String[] nativeLibs = {"libgnustl_shared.so", "libmtnn.so",
             "libmtface.so", "libmtface_jni.so", "libmtface_ext.so"};
-    private static String[] nativeClasses = {
+    private static final String[] nativeClasses = {
             "com.meitu.face.detect.MTFaceDetector",
             "com.meitu.face.ext.MTFaceDataUtils"
     };
