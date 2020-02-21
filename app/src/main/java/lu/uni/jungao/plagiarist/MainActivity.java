@@ -32,4 +32,9 @@ public class MainActivity extends AppCompatActivity {
         Intent i = new Intent(this, FuncBorrowingActivity.class);
         startActivity(i);
     }
+
+    public void testAntiTheftShow(View v) {
+        Intent i = new Intent(this, AntiTheftActivity.class);
+        startActivity(i);
+    }
 }

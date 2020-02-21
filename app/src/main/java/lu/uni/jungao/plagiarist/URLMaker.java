@@ -63,6 +63,7 @@ public class URLMaker {
         }
         Invoker invoker = Invoker.getInstance();
         UserInfo.setAppId(aid);
+        // the initUser string is hardcoded in com/ss/android/ugc/aweme/setting/f.smali
         UserInfo.initUser("a3668f0afac72ca3f6c1697d29e0e1bb1fef4ab0285319b95ac39fa42c38d05f");
         String str22 = UserInfo.getUserInfo(ts, url, arr.toArray(new String[0]));
         int i2 = str22.length();

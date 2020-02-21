@@ -18,4 +18,5 @@
     <string name="send_msg">Send</string>
     <string name="load_image">Load Image</string>
     <string name="spot_face">Locate Face</string>
+    <string name="anti_theft">Anti-theft</string>
 </resources>

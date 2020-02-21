@@ -40,6 +40,12 @@
             android:text="@string/functionality_borrowing"
             android:onClick="funcBorrowingShow"/>
 
+        <android.support.v7.widget.AppCompatButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/anti_theft"
+            android:onClick="testAntiTheftShow"/>
+
     </android.support.v7.widget.LinearLayoutCompat>
 
 </android.support.constraint.ConstraintLayout>
