@@ -13,7 +13,7 @@ public class MyApp extends Application {
         storeUID();
         theApp = this;
         Invoker invoker = Invoker.getInstance(this, "com.zhiliaoapp.musically");
-        invoker.loadNative("libcms.so", 32);
+//        invoker.loadNative("libcms.so", 32);
 
         this.getApplicationInfo().packageName = "lu.uni.jungao.theft_protected";
     }
